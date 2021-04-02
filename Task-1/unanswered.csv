@@ -1,0 +1,1078 @@
+answers,ownerId,quesId,summary,tags,views,votes
+1,3370217,46847627,Is there a way to emulate a Android OS upgrade scenario on AVD emulator?,"android,android-emulator,apk",39,39
+0,3291744,36733638,Representing Parametric Survival Model in 'Counting Process' form in JAGS,"r,bayesian,survival-analysis,jags,weibull",224,224
+4,93171,115029,Is there such a thing as a dish being bland from too many flavors?,"flavor,spices,seasoning",29,29
+0,1612428,53375422,How does pytorch's parallel method and distributed method work?,"python-3.x,parallel-processing,pytorch,distributed-computing",41,41
+1,3063048,28296633,Android Usage Access for Android 5 Samsung devices,"android,android-5.0-lollipop,samsung-mobile,usage-statistics",39,39
+0,1302488,50384943,RAML 1.0 representation of Java Map,"java,raml,raml-java-parser,raml-1.0",38,38
+1,89839,245320,How did Luke get his lightsaber back from Raynar Thul?,"star-wars,star-wars-legends,lightsaber,luke-skywalker",6,6
+1,1669996,42728757,MarkerClick works but InfoWindowClick does not open ViewModel,"android,google-maps,xamarin,xamarin.android,mvvmcross",39,39
+3,139556,591007,What is wrong with the $f$ symbol?,"math-mode,spacing,symbols,amsmath",5,5
+2,196688,557871,Why should BJTs be saturated in switching circuits?,"transistors,bjt,saturation",2,2
+2,4556202,28462466,Google Calendar Push Notifications SetUp,"php,calendar,google-calendar-api,google-api-php-client",40,40
+0,1461210,17406954,Is it possible to directly apply an affine transformation matrix to a Mayavi ImageActor object?,"python,transformation,mayavi",41,41
+4,40376,31388,Artificial decomposition in Scrum,"scrum,estimation,sprint,refinement",11,11
+3,32035,221150,"Strange suction in toilet and sink, like a vacuum in the sewer pulling the water out","plumbing,drain,drainage,sewer",11,11
+1,19804,45562,Head shaving when father is alive,customs,4,4
+2,413073,417927,Explanation /bin/bash -c “$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)”,"macos,command-line,bash,homebrew",4,4
+3,137921,165728,How do I voice my opinion that the teaching of students is being neglected?,"ethics,united-states,teaching,teaching-assistant",19,19
+2,281144,517795,Differences Between the Central Limit Theorem and Consistency,"probability,convergence,central-limit-theorem,consistency",6,6
+1,135311,389083,Packing equal-size disks in a unit disk,"co.combinatorics,discrete-geometry,extremal-combinatorics,circle-packing",5,5
+4,254740,247809,How to protect a <input type='password'/> from XSS?,xss,7,7
+2,58973,50532,Have any versions of “Who Wants to be a Millionaire?” had to remove the Ask the Audience lifeline due to the audience purposely voting wrong?,television,21,21
+1,52531,63135,How do market makers calculate the IV for options?,"options,derivatives",1,1
+3,135061,591014,Best way to write $\lim^1$,spacing,10,10
+1,403,243919,Easily download SE posts as notebooks?,"import,web-access,http-functions",9,9
+2,98430,124320,Why is there a bright edge in my photos even though my studio lights provide even coverage?,studio-lighting,7,7
+1,47669,64554,Construction I need help clarifying in Otfried Preußler's “Krabat”,"idioms,pronouns",8,8
+3,334715,642966,Why does “file xxx.src” lead to “cannot open `xxx.src' (No such file or directory)” but has an exit status of 0 (success)?,"linux,exit-status,file-command",9,9
+3,181792,626151,What is the physical importance of topological quantum field theory?,"quantum-field-theory,mathematical-physics,topological-field-theory",11,11
+3,1292093,1638256,why isn't 255.255.249.0 a valid subnet mask?,"networking,desktop-computer,window,subnet,mask",30,30
+3,125137,171037,Company wants me to have follow up meeting with a team after Interview; what does that mean?,follow-up,3,3
+2,7434,63260,What is the largest political entity that lacks legislative power?,"international,legislation,local-government",16,16
+9,108103,139302,Why can't my LLC get a credit card when the owner has credit history and a good credit score?,"credit-card,banking,small-business,business",14,14
+3,31995,63727,Do you get to keep a fraudulent money transfer that you are entitled to?,"fraud,unjust-enrichment",6,6
+3,281726,557789,Temperature sensor read out is influenced by LED,"arduino,sensor,adc",2,2
+3,83431,113240,Why the difference between Thanos on Titan and on Earth?,"plot-explanation,marvel-cinematic-universe,avengers-infinity-war",14,14
+4,108123,139344,Are new dividend investors severely disadvantaged by ongoing rising dividend growth stock prices?,investing,5,5
+2,60603,109195,Construction of positive integers by given rules,"mathematics,number-theory",5,5
+3,43422,113343,How does Eb connect musically to C major chord progression like in this song?,"chords,scales,chord-theory,chord-progressions",8,8
+6,11795,19446,Was there a specific benefit to inverted (XOR) mouse cursors other than aesthetics?,"history,graphics,mouse",27,27
+2,10736,10123,What are some good car-crafts for long trips?,kids-crafts,8,8
+5,125138,171041,Taking over another fired developers role,"work-experience,promotion,careers,developer,professional-development",5,5
+3,63622,113333,Why do guitarists move fingers up and down on the same note?,"guitar,technique",7,7
+1,166165,389072,What is the category of covariant and contravariant functors?,ct.category-theory,6,6
+1,139513,245265,Book where humans and robots co-existed and slaves could earn freedom through playing games,"story-identification,books",19,19
+2,144179,138257,Multiple selection,"usability,multi-selection,pricing",7,7
+8,20830,44533,Logic of Emptiness still unconvincing. Please help explain,"mahayana,sunyata,shunyata",5,5
+8,72756,199857,Can a super computer be built using time dilation?,"reality-check,relativity,time-manipulation",15,15
+6,294860,626225,"Since the microwave background radiation came into being before stars, shouldn't all existing stars (given sufficient equipment) be visible?","cosmology,cosmic-microwave-background",15,15
+3,52717,183513,Is this Homebrew Advantage rule broken?,"dnd-5e,house-rules,statistics,dice,advantage-and-disadvantage",11,11
+3,50422,82576,What is the biblical basis for Jesus' eternal pre-existence (as opposed to having been created a long time ago)?,"biblical-basis,christology,creation,time,eternity",5,5
+2,123249,247844,Is it safe to share .git folder of a public repo?,"privacy,git,information-exposure",7,7
+3,9217,15694,Is “mens semita tua” the correct translation for “mind your path”?,"english-to-latin-translation,translation-check,motto",6,6
+2,79149,243897,Changing the repeated number on a list,list-manipulation,4,4
+1,35750,54541,An exiled planeswalker returned with loyalty higher than printed in Arena,"magic-the-gathering,mtg-arena",2,2
+5,40304,58474,Matthew 27:46 Why does Jesus not address God as Father?,"matthew,jesus,names-of-god,crucifixion",3,3
+2,52101,100084,Why does UV radiation from the Sun cause skin cancer?,"cancer,biophysics,skin,radiation,uv",7,7
+1,413121,417971,Store matching files in icloud AND on Mac and Macbook,"macos,icloud,data-synchronization",3,3
+3,136731,245223,Why did Dumbledore say there was “precious little to celebrate” specifically over the 11 years before Voldemort failed to kill baby Harry?,harry-potter,22,22
+4,178152,590997,Best way to replicate this in latex,"equations,align,matrices",4,4
+4,64956,100082,How come there aren't many competing biologies on earth?,"biochemistry,dna,biophysics,abiogenesis",19,19
+1,102176,245304,80s film where a group of kids are stuck in a orbiting space shuttle and receive advice from a female astronaut,story-identification,16,16
+3,108099,139320,"Why a bank would propose a depositor to invest part of their money to mutual funds, instead of bank doing it itself?","investing,mutual-funds,bank-account,deposits,greece",8,8
+2,39182,51141,"Why have SpaceX skipped the SpaceX Starship SN12, SN13, and SN14?","spacex,spacex-starship",20,20
+25,453596,7172784,How do I POST JSON data with cURL?,"json,rest,spring-mvc,curl,http-headers",3173,3173
+8,60769,199764,What could be the the consequences in this world if nuclear bombs didn't release radiation anymore?,"alternate-history,politics,nuclear-weapons,geopolitics,nuclear-war",10,10
+48,537967,5585779,How do I convert a String to an int in Java?,"java,string,int,type-conversion",3186,3186
+3,68541,73261,Why does one say IP fragmentation is bad and to be avoided when in reality data always needs to be fragmented for MTU compatibility?,"ipv4,tcp,udp,osi,fragmentation",13,13
+25,-1,1034621,Get the current URL with JavaScript?,"javascript,url",3227,3227
+20,557,222596,Trim elements from the ends of a list,"code-golf,array-manipulation",14,14
+43,46646,415511,How to get the current time in Python,"python,datetime,time",3197,3197
+3,28067,63275,"In open-list voting systems, how do political parties ensure their leaders (and key figures) get elected?","election,parliament,parties,voting-systems,proportional-representation",3,3
+25,3041,1986896,What is the difference between call and apply?,"javascript,performance,function,dynamic",3207,3207
+29,259,986006,How do I pass a variable by reference?,"python,reference,parameter-passing,pass-by-reference",2836,2836
+37,1354,130794,What is dependency injection?,"design-patterns,language-agnostic,dependency-injection,terminology",3217,3217
+4,50677,75946,Recommendations on how to buy clipless bike shoes,"shoes,clipless,pedals-clipless",3,3
+4,1362,18255,What limits a PIN diode or varicap from being used in a “Software Defined [Radio] Filter”?,"software-defined-radio,equipment-design,filter,capacitance",6,6
+2,38190,389060,Colimits of residually finite groups,gr.group-theory,3,3
+1,24984,121443,"If God removed prophecy from the gentiles because of Bilaam's wickedness, how come that Obadiah who was a gentile was a prophet?","talmud-gemara,gentiles,torah-study,midrash,bilam",1,1
+7,214898,557501,Is it possible to generate light with an antenna?,"antenna,electromagnetism,light,electromagnetic,optoelectronics",20,20
+30,9311,141088,What is the best way to iterate over a dictionary? [closed],"c#,dictionary,loops",2825,2825
+39,1782,596351,How can I know which radio button is selected via jQuery?,"javascript,jquery,html,jquery-selectors,radio-button",2838,2838
+16,83109,199775,What could prevent my world from progressing past the early industrial age?,"medieval,renaissance,industrial-age",6,6
+90,-1,263965,How can I convert a string to boolean in JavaScript?,javascript,2846,2846
+39,176191,1452721,Why is “using namespace std;” considered bad practice?,"c++,namespaces,std,using-directives,c++-faq",2847,2847
+3,107855,149305,Does the SDF format have any benefit over SMILES?,cheminformatics,8,8
+3,1732709,21947452,Why is printing “B” dramatically slower than printing “#”?,"java,performance,loops,for-loop,system.out",2813,2813
+43,177416,5515310,"Is there a standard function to check for null, undefined, or blank variables in JavaScript?","javascript,null,comparison,undefined",2525,2525
+3,256,339418,How to subscribe to events from LWC embedded in Visualforce,"visualforce,lightning-web-components,platform-event,lightning-out",7,7
+8,264,1108,How does database indexing work? [closed],"sql,database,performance,indexing,database-indexes",2548,2548
+26,30773,229551,How to check if a string contains a substring in Bash,"string,bash,shell,substring,sh",2858,2858
+5,133350,221111,How to get a wrench into this location to remove this nut?,"plumbing,hand-tools",14,14
+4,55661,115049,"Why doesn't a microwave heat the air around food, in addition to the food itself?","microwave,heat",8,8
+54,96180,1531093,How do I get the current date in JavaScript?,"javascript,date,date-formatting",2535,2535
+29,61989,605845,Do I cast the result of malloc?,"c,malloc,casting",2533,2533
+26,1165332,48270127,Can (a== 1 && a ==2 && a==3) ever evaluate to true?,"javascript,ecmascript-6",2545,2545
+2,25544,109197,Find X and Y so that they are never equal,"mathematics,number-theory",3,3
+2,49646,165773,What is the meaning of “person specification” in a job advert?,"mathematics,postdocs,application-cover-letter,research-statement",4,4
+28,505762,5404839,How can I refresh a page with jQuery?,"javascript,jquery,refresh,reload",2557,2557
+26,89930,222585,Un-pipe an Elixir expression,"code-golf,string",24,24
+2,56730,86271,What options are there in Canada for treatment of severe depression and anxiety for pilots?,"helicopter,general-aviation,medical,canada",11,11
+37,802,750172,How to change the author and committer name and e-mail of multiple commits in Git?,"git,version-control,git-filter-branch,git-rewrite-history",2548,2548
+31,67219,574594,How can I create an executable JAR with dependencies using Maven?,"java,maven-2,build-process,build-automation,executable-jar",2564,2564
+30,2399,21593,What is the difference between #include <filename> and #include “filename”?,"c++,c,include,header-files,c-preprocessor",2561,2561
+20,9021,332872,Encode URL in JavaScript?,"javascript,url,encode,urlencode",2582,2582
+19,41021,824349,How do I modify the URL without reloading the page?,"javascript,html,url,url-rewriting,friendly-url",2589,2589
+24,2670370,37937984,Git refusing to merge unrelated histories on rebase,"git,rebase",2566,2566
+2,71935,113370,MuseScore 3 Prevent Grouping (Beaming) Notes,"musescore,beaming",2,2
+31,245777,4351521,How do I pass command line arguments to a Node.js program?,"javascript,node.js,arguments,command-line-arguments",2587,2587
+12,871050,12859942,Why shouldn't I use mysql_* functions in PHP?,"php,mysql",2568,2568
+10,578832,8547778,Why are elementwise additions much faster in separate loops than in a combined loop?,"c++,performance,x86,vectorization,compiler-optimization",2309,2309
+2,45588,183534,How to surpass Construct's Hardness with no heavy-hitter at low level?,"pathfinder-2e,tactics,constructs",6,6
+39,147,5223,Length of a JavaScript object,"javascript,javascript-objects",2578,2578
+13,87227,165743,What to do with students requesting deadline extension due to the death of a relative (but without a doctor's note)?,"academic-life,students,teaching-assistant,health,course-design",25,25
+17,97857,222676,Fibonacci Encoding,"code-golf,integer,binary,fibonacci,coding-theory",16,16
+32,137100,4907843,Open a URL in a new tab (and not a new window),javascript,2337,2337
+9,20458,563913,Is “Blitzkrieg” a word that average native speaker would understand?,"meaning,meaning-in-context",12,12
+31,960956,9270734,ssh “permissions are too open” error,"permissions,ssh",2349,2349
+14,51816,663171,How do I get a substring of a string in Python?,"python,string,substring",2333,2333
+30,87971,806000,How do I give text or an image a transparent background using CSS?,"html,css,opacity",2363,2363
+52,383759,3508605,How can I transition height: 0; to height: auto; using CSS?,"css,css-transitions",2309,2309
+21,69684,3042437,How to change the commit author for one specific commit?,"git,git-commit",2353,2353
+11,2437514,30081275,Why is “1000000000000000 in range(1000000000000001)” so fast in Python 3?,"python,performance,python-3.x,range,python-internals",2366,2366
+49,3742,78536,Deep cloning objects,"c#,.net,clone",2360,2360
+14,114066,930397,Getting the last element of a list,"python,list,indexing",2353,2353
+18,561731,5874652,.prop() vs .attr(),"javascript,jquery,dom,attr,prop",2373,2373
+5,37467,63714,Is it legal for an oil company to charge customers a different price per gallon for the same oil?,consumer-protection,7,7
+34,170231,1643227,Get selected text from a drop-down list (select box) using jQuery,"javascript,jquery,dom,drop-down-menu,jquery-selectors",2373,2373
+3,57742,109169,Red Herring Redherring,"word,knowledge,enigmatic-puzzle,visual,metapuzzles",29,29
+19,104015,1414365,Disable/enable an input with jQuery?,"javascript,jquery,html-input,disabled-input",2375,2375
+13,2232662,19578796,What is the --save option for npm install?,"node.js,npm",2390,2390
+23,12870,466345,Converting string into datetime,"python,datetime",2393,2393
+10,125099,170987,My tasks at work have turned away from what I applied to. How do I get back on track?,"communication,new-job,job-description,netherlands",48,48
+23,33203,285177,How do I call one constructor from another in Java?,"java,constructor",2393,2393
+37,5475,965053,Extract filename and extension in Bash,"bash,string,filenames",2305,2305
+30,62612,3987683,Homebrew install specific version of formula?,"installation,versioning,homebrew",2368,2368
+2,24,4635,What are some cloud services for computing?,"one-topic-per-answer,high-performance-computing",8,8
+5,509271,7229885,What are the differences between .gitignore and .gitkeep?,"git,gitignore",2159,2159
+28,1504276,11346283,Renaming columns in Pandas,"python,pandas,replace,dataframe,rename",2158,2158
+17,302064,5905054,How can I recursively find all files in current and subfolders based on wildcard matching?,"linux,shell",2169,2169
+25,4883,948135,How to write a switch statement in Ruby,"ruby,switch-statement,conditional-statements",2160,2160
+39,1965,799981,$(document).ready equivalent without jQuery,"javascript,jquery,pageload",2165,2165
+18,-1,618535,"Difference between decimal, float and double in .NET?",".net,floating-point,double,decimal",2176,2176
+36,16299,90178,Make a div fill the height of the remaining screen space,"html,css,html-table",2175,2175
+26,93966,952924,JavaScript chop/slice/trim off last character in string,"javascript,slice,trim",2170,2170
+30,1048252,8312459,Iterate through object properties,"javascript,loops,object",2164,2164
+30,15214,1946426,"HTML 5: Is it <br>, <br/>, or <br />?",html,2173,2173
+14,58743,1552340,How to list only the names of files that changed between two commits?,"git,git-diff,git-show",2170,2170
+34,480608,16073603,How to update each dependency in package.json to the latest version?,"node.js,npm",2165,2165
+1,310553,517781,Is a spline interpolation considered to be a nonparametric model?,"nonparametric,terminology,splines,definition,interpolation",11,11
+17,457896,3796927,How to “git clone” including submodules?,"git,git-submodules",2187,2187
+12,4490,125319,Should 'using' directives be inside or outside the namespace?,"c#,.net,namespaces,stylecop,code-organization",2177,2177
+17,92727,222652,Check B-powersmoothness,"code-golf,math,decision-problem",15,15
+30,-1,3577641,How do you parse and process HTML/XML in PHP?,"php,xml,parsing,xml-parsing,html-parsing",2179,2179
+12,178732,6430448,Why doesn't GCC optimize a*a*a*a*a*a to (a*a*a)*(a*a*a)?,"gcc,assembly,floating-point,compiler-optimization,fast-math",2188,2188
+1,3943,50544,Has the distribution of income and wealth in the USA got much more skewed towards the rich in the last 4 decades?,"united-states,economics,demographics,wealth",17,17
+5,22478,280263,How do we express someone does something unconsciously while he/she is asleep?,"word-request,phrase-request",3,3
+8,22584,424964,Getting buy-in for clean code and refactoring,"project-management,refactoring,clean-code,engineering",25,25
+36,-1,137975,What is so bad about singletons? [closed],"design-patterns,singleton",2034,2034
+1,586131,10725729,See what's in a stash without applying it [duplicate],"git,git-stash",2042,2042
+40,41508,492994,Compare two dates with JavaScript,"javascript,date,datetime,compare",2193,2193
+25,455137,4059147,Check if a variable is a string in JavaScript,"javascript,string",2035,2035
+22,946,40730,What is the best way to give a C# auto-property an initial value?,"c#,constructor,getter,setter,automatic-properties",2043,2043
+20,2668128,22049212,Docker: Copying files from Docker container to host,"docker,docker-container,file-copying",2037,2037
+32,65503,657447,Vim clear last search highlighting,"vim,full-text-search,highlight",2039,2039
+9,206504,1712227,How do I get the number of elements in a list?,"python,list",2045,2045
+50,28324,2901102,How to print a number with commas as thousands separators in JavaScript,"javascript,formatting,numbers,integer",2056,2056
+30,553670,5947742,How to change the output color of echo in Linux,"linux,bash,command-line,echo,terminal-color",2044,2044
+22,21384,493386,How to print without newline or space?,"python,newline",2057,2057
+43,-1,242813,When should I use double or single quotes in JavaScript?,"javascript,string,conventions",2059,2059
+33,12149,409784,What's the simplest way to print a Java array?,"java,arrays,printing",2061,2061
+4,546661,7825055,What does the ??!??! operator do in C?,"c,operators,trigraphs",2071,2071
+23,58249,489340,Vertically align text next to an image?,"html,css,alignment,vertical-alignment",2069,2069
+47,27109,194852,How to concatenate text from multiple rows into a single text string in SQL server?,"sql,sql-server,csv,string-concatenation,group-concat",2058,2058
+67,-1,149055,How to format numbers as currency string?,"javascript,formatting,currency",2029,2029
+41,-1,206384,How do I format a Microsoft JSON date?,"jquery,asp.net,ajax,json",2060,2060
+42,22996,1016896,How to get screen dimensions as pixels in Android,"android,layout,screen,pixel,dimensions",1887,1887
+13,101258,2225038,Determine the type of an object?,"python,dictionary,types,typeof",1895,1895
+7,-1,556405,"What do 'real', 'user' and 'sys' mean in the output of time(1)?","unix,time,benchmarking",1898,1898
+37,15108,886955,How do I break out of nested loops in Java?,"java,loops,nested-loops",1902,1902
+33,78000,24319662,"From inside of a Docker container, how do I connect to the localhost of the machine?","nginx,docker,reverse-proxy,docker-networking",1906,1906
+18,47831,446594,Abort Ajax requests using jQuery,"javascript,jquery,ajax",1890,1890
+44,5769,113045,How to return only the Date from a SQL Server DateTime datatype,"sql,sql-server,tsql,date,datetime",1890,1890
+27,60102,500504,Why is using “for…in” for array iteration a bad idea?,"javascript,arrays,loops,for-loop,iteration",1906,1906
+26,52566,2016901,Viewing unpushed Git commits,"git,git-diff,git-log",1909,1909
+17,52913,495021,Why can templates only be implemented in the header file?,"c++,templates,undefined-reference,c++-faq",1917,1917
+22,2657951,109325,PostgreSQL “DESCRIBE TABLE”,"postgresql,psql,table-structure",1930,1930
+14,19410,106508,What is a smart pointer and when should I use one?,"c++,pointers,c++11,smart-pointers,c++-faq",1933,1933
+17,128983,2194808,“Debug certificate expired” error in Eclipse Android plugins,"android,eclipse,certificate",1933,1933
+32,44984,406192,Get current URL with jQuery?,"javascript,jquery,url",1931,1931
+24,120898,987142,Make .gitignore ignore everything except a few files,"git,gitignore",1935,1935
+8,38153,163140,Usage of cash in Europe during COVID,"europe,money,covid-19",6,6
+21,417810,7073484,How do CSS triangles work?,"css,geometry,polygon,css-shapes",1910,1910
+19,1473493,375913,How can I profile C++ code running on Linux?,"c++,linux,profiling",1930,1930
+19,282329,2496710,Writing files in Node.js,"javascript,node.js,file,express,fs",1785,1785
+28,518838,4459379,Preview an image before it is uploaded,"javascript,jquery,file-upload",1778,1778
+51,783783,6237295,How can I update NodeJS and NPM to the next versions?,"node.js,linux,npm,node-modules,npm-update",1779,1779
+20,24923,169511,How do I iterate over a range of numbers defined by variables in Bash?,"bash,shell,for-loop,syntax",1781,1781
+39,-1,306252,How to align checkboxes and their labels consistently cross-browsers,"html,css,cross-browser,alignment,forms",1794,1794
+27,-1,442404,"Retrieve the position (X,Y) of an HTML element relative to the browser window","javascript,html,css,dom,position",1780,1780
+29,140811,2641347,Short circuit Array.forEach like calling break,"javascript,arrays,foreach",1794,1794
+15,309343,8073673,How can I add new array elements at the beginning of an array in Javascript?,"javascript,arrays",1794,1794
+15,101152,2763006,Make the current Git branch a master branch,git,1794,1794
+25,99317,997482,Does Java support default parameter values?,"java,methods,parameters,overloading,default-parameters",1804,1804
+36,260127,3601515,How to check if a variable is set in Bash?,"bash,shell,variables",1794,1794
+2,32618,591046,Beamer XeLaTeX Unicode,"beamer,xetex,unicode",4,4
+answers,ownerId,quesId,summary,tags,views,votes
+0,1612428,53375422,How does pytorch's parallel method and distributed method work?,"python-3.x,parallel-processing,pytorch,distributed-computing",41,41
+0,3291744,36733638,Representing Parametric Survival Model in 'Counting Process' form in JAGS,"r,bayesian,survival-analysis,jags,weibull",224,224
+1,1669996,42728757,MarkerClick works but InfoWindowClick does not open ViewModel,"android,google-maps,xamarin,xamarin.android,mvvmcross",39,39
+0,5021148,54541969,Tensorflow Compile Runs Forever,"python,tensorflow,compilation,bazel",41,41
+3,50422,82576,What is the biblical basis for Jesus' eternal pre-existence (as opposed to having been created a long time ago)?,"biblical-basis,christology,creation,time,eternity",5,5
+0,1461210,17406954,Is it possible to directly apply an affine transformation matrix to a Mayavi ImageActor object?,"python,transformation,mayavi",41,41
+2,4556202,28462466,Google Calendar Push Notifications SetUp,"php,calendar,google-calendar-api,google-api-php-client",40,40
+2,39182,51141,"Why have SpaceX skipped the SpaceX Starship SN12, SN13, and SN14?","spacex,spacex-starship",20,20
+6,294860,626225,"Since the microwave background radiation came into being before stars, shouldn't all existing stars (given sufficient equipment) be visible?","cosmology,cosmic-microwave-background",15,15
+3,28067,63275,"In open-list voting systems, how do political parties ensure their leaders (and key figures) get elected?","election,parliament,parties,voting-systems,proportional-representation",3,3
+3,256,339418,How to subscribe to events from LWC embedded in Visualforce,"visualforce,lightning-web-components,platform-event,lightning-out",7,7
+1,3370217,46847627,Is there a way to emulate a Android OS upgrade scenario on AVD emulator?,"android,android-emulator,apk",39,39
+1,3063048,28296633,Android Usage Access for Android 5 Samsung devices,"android,android-5.0-lollipop,samsung-mobile,usage-statistics",39,39
+0,1302488,50384943,RAML 1.0 representation of Java Map,"java,raml,raml-java-parser,raml-1.0",38,38
+1,113278,245228,"In “The Shadow of the Past”, who helped Gandalf watch the Shire while he was gone?","tolkiens-legendarium,the-lord-of-the-rings",36,36
+3,9217,15694,Is “mens semita tua” the correct translation for “mind your path”?,"english-to-latin-translation,translation-check,motto",6,6
+5,125138,171041,Taking over another fired developers role,"work-experience,promotion,careers,developer,professional-development",5,5
+2,84593,199943,Sea traversing ecosystem/ship?,"flora,ships,shipbuilding",4,4
+2,24,4635,What are some cloud services for computing?,"one-topic-per-answer,high-performance-computing",8,8
+2,32618,591046,Beamer XeLaTeX Unicode,"beamer,xetex,unicode",4,4
+5,22478,280263,How do we express someone does something unconsciously while he/she is asleep?,"word-request,phrase-request",3,3
+1,89839,245320,How did Luke get his lightsaber back from Raynar Thul?,"star-wars,star-wars-legends,lightsaber,luke-skywalker",6,6
+3,1292093,1638256,why isn't 255.255.249.0 a valid subnet mask?,"networking,desktop-computer,window,subnet,mask",30,30
+2,71935,113370,MuseScore 3 Prevent Grouping (Beaming) Notes,"musescore,beaming",2,2
+6,11795,19446,Was there a specific benefit to inverted (XOR) mouse cursors other than aesthetics?,"history,graphics,mouse",27,27
+1,10069,43285,Topology on the space of measurable functions,"mathematical-economics,game-theory",5,5
+2,98430,124320,Why is there a bright edge in my photos even though my studio lights provide even coverage?,studio-lighting,7,7
+3,181792,626151,What is the physical importance of topological quantum field theory?,"quantum-field-theory,mathematical-physics,topological-field-theory",11,11
+1,19804,45562,Head shaving when father is alive,customs,4,4
+1,166165,389072,What is the category of covariant and contravariant functors?,ct.category-theory,6,6
+1,52531,63135,How do market makers calculate the IV for options?,"options,derivatives",1,1
+2,10736,10123,What are some good car-crafts for long trips?,kids-crafts,8,8
+2,123249,247844,Is it safe to share .git folder of a public repo?,"privacy,git,information-exposure",7,7
+26,89930,222585,Un-pipe an Elixir expression,"code-golf,string",24,24
+3,137921,165728,How do I voice my opinion that the teaching of students is being neglected?,"ethics,united-states,teaching,teaching-assistant",19,19
+8,60769,199764,What could be the the consequences in this world if nuclear bombs didn't release radiation anymore?,"alternate-history,politics,nuclear-weapons,geopolitics,nuclear-war",10,10
+2,144179,138257,Multiple selection,"usability,multi-selection,pricing",7,7
+2,45588,183534,How to surpass Construct's Hardness with no heavy-hitter at low level?,"pathfinder-2e,tactics,constructs",6,6
+4,64956,100082,How come there aren't many competing biologies on earth?,"biochemistry,dna,biophysics,abiogenesis",19,19
+3,63622,113333,Why do guitarists move fingers up and down on the same note?,"guitar,technique",7,7
+3,52717,183513,Is this Homebrew Advantage rule broken?,"dnd-5e,house-rules,statistics,dice,advantage-and-disadvantage",11,11
+2,25544,109197,Find X and Y so that they are never equal,"mathematics,number-theory",3,3
+2,79149,243897,Changing the repeated number on a list,list-manipulation,4,4
+4,20723,139311,Landlord making up charges,"united-states,rent,landlord,pennsylvania",18,18
+3,31995,63727,Do you get to keep a fraudulent money transfer that you are entitled to?,"fraud,unjust-enrichment",6,6
+1,3943,50544,Has the distribution of income and wealth in the USA got much more skewed towards the rich in the last 4 decades?,"united-states,economics,demographics,wealth",17,17
+4,254740,247809,How to protect a <input type='password'/> from XSS?,xss,7,7
+1,35750,54541,An exiled planeswalker returned with loyalty higher than printed in Arena,"magic-the-gathering,mtg-arena",2,2
+4,1362,18255,What limits a PIN diode or varicap from being used in a “Software Defined [Radio] Filter”?,"software-defined-radio,equipment-design,filter,capacitance",6,6
+2,58973,50532,Have any versions of “Who Wants to be a Millionaire?” had to remove the Ask the Audience lifeline due to the audience purposely voting wrong?,television,21,21
+1,796085,31170380,"Bind Poses, Joint Transforms in Collada",".net,matrix,3d,collada",31,31
+3,334715,642966,Why does “file xxx.src” lead to “cannot open `xxx.src' (No such file or directory)” but has an exit status of 0 (success)?,"linux,exit-status,file-command",9,9
+2,733176,22094779,android libvlc multiple surface problems,"android,android-fragments,android-view,vlc,libvlc",31,31
+0,575447,17722415,Zend Framework 2 Doctrine 2 one-to-many checkbox hydration,"doctrine-orm,zend-framework2,zend-form2",31,31
+3,68541,73261,Why does one say IP fragmentation is bad and to be avoided when in reality data always needs to be fragmented for MTU compatibility?,"ipv4,tcp,udp,osi,fragmentation",13,13
+17,97857,222676,Fibonacci Encoding,"code-golf,integer,binary,fibonacci,coding-theory",16,16
+6,42982,626458,Do the “colors” live in a 3-dimensional vector space?,"electromagnetic-radiation,visible-light,wavelength,vision,popular-science",2,2
+2,56730,86271,What options are there in Canada for treatment of severe depression and anxiety for pilots?,"helicopter,general-aviation,medical,canada",11,11
+5,37467,63714,Is it legal for an oil company to charge customers a different price per gallon for the same oil?,consumer-protection,7,7
+4,178152,590997,Best way to replicate this in latex,"equations,align,matrices",4,4
+2,7434,63260,What is the largest political entity that lacks legislative power?,"international,legislation,local-government",16,16
+6,3510,199927,"What will it take to get 1,000,000 people living in space habitats?","space,economy,space-colonization,space-constructs",10,10
+1,413121,417971,Store matching files in icloud AND on Mac and Macbook,"macos,icloud,data-synchronization",3,3
+1,2855173,47739214,Using a MTLTexture as the environment map of a SCNScene,"ios,swift,scenekit,metal,mtlbuffer",28,28
+8,22584,424964,Getting buy-in for clean code and refactoring,"project-management,refactoring,clean-code,engineering",25,25
+0,6589470,46071420,Using spring HATEOAS with spring webflux Functional Web Framework (reactor-netty),"java,spring,spring-boot,spring-hateoas,spring-webflux",28,28
+0,-1,35983985,Qt5 VideoOverview example won't work,"linux,qt5,gstreamer,beagleboneblack,qtmultimedia",28,28
+1,1660283,34203657,Crash in Activity Transitions with SharedElement,"android,android-5.0-lollipop,shared-element-transition,activity-transition",28,28
+0,3072788,41158070,Future of roles for GADT-like type variables?,"haskell,types,ghc,roles,gadt",28,28
+0,5381547,43090923,RubyMine doesn't see gems from bundle in Docker on Mac OS,"ruby-on-rails,ruby,docker,bundler,rubymine",28,28
+0,614944,39682285,code signature in (/xxxxx) not valid for use in process using Library Validation,"macos,validation,codesign",28,28
+1,6556658,43872295,Oracle SYS_CONNECT_BY_PATH equivalent query into SQL Server,"sql-server,tsql,hierarchical-data,recursive-query",28,28
+3,2854656,53390308,Flutter show app icon badge on push notification,"flutter,push-notification,flutter-notification",28,28
+3,43422,113343,How does Eb connect musically to C major chord progression like in this song?,"chords,scales,chord-theory,chord-progressions",8,8
+0,3001276,59089860,Android emulator face recognition,"android,android-emulator,android-biometric-prompt,android-biometric",28,28
+1,593154,49536492,Translate ninject ISecureDataFormat binding to Autofac,"c#,owin,inversion-of-control,ninject,autofac",25,25
+0,4415642,51628081,Multiple Navigation Graphs in Android and Deep Links,"android,deep-linking,android-navigation",25,25
+0,588959,51400618,Using torch.nn.DataParallel with a custom CUDA extension,"neural-network,deep-learning,pytorch,libtorch",25,25
+2,281144,517795,Differences Between the Central Limit Theorem and Consistency,"probability,convergence,central-limit-theorem,consistency",6,6
+2,60603,109195,Construction of positive integers by given rules,"mathematics,number-theory",5,5
+1,4070848,39363839,JobScheduler: controlling delay from constraints being met to job being run,"android,alarmmanager,android-jobscheduler",26,26
+0,9129324,47935251,iOS crash at CFAllocatedReferenceCountedObject,ios,25,25
+17,92727,222652,Check B-powersmoothness,"code-golf,math,decision-problem",15,15
+1,3744402,30776439,Accessibility focus of childviews in nestedscrollview,"android,accessibility",26,26
+0,1402027,18410856,NSRangeException Out of Bounds error,"uilabel,nsattributedstring,nsrange,nsrangeexception",26,26
+1,2030888,21056026,Prevent auto-saving of photos to gallery when uploading photos in Android Browser using input type=file capture=camera,"android,image,upload,camera,autosave",26,26
+3,1389831,21514259,Android “couldn't log to binary event log: overflow”,"android,binary,overflow,android-4.4-kitkat",26,26
+0,3760563,26057288,View Product Quantity based on Base UoM and Purchase UoM in OpenERP 7,openerp-7,26,26
+1,2889530,27377465,How windows handle the clipboard interface with Xming?,"windows,delay,clipboard,paste,xming",26,26
+1,869146,28856004,Is there an equivalent to Chrome's DevTools 'workspaces' in Firefox?,"google-chrome,firefox,source-maps",26,26
+1,1696979,39329467,create variable in Kepserver with node-opcua,"node.js,node-opcua,kepserverex",26,26
+0,1750246,15763823,UIActionSheet centralisation on rotation,"ios-simulator,uiactionsheet,autorotate",26,26
+3,7043185,40782277,Angular UI Grid 'gridApi.infiniteScroll.on.needLoadMoreData' doesn't work with changes in data,"javascript,angularjs,angular-ui-grid,ui-grid",26,26
+2,1859489,29715351,Showing status for the last list item in a ListView using ViewHolder,"android,android-listview,android-asynctask,android-viewholder,getview",26,26
+5,4748029,36024412,Generic Angular Components - Optional Bindings,"javascript,angularjs,angularjs-directive",26,26
+0,1390413,46935135,Why and when should we use JSON Web Tokens?,jwt,25,25
+10,125099,170987,My tasks at work have turned away from what I applied to. How do I get back on track?,"communication,new-job,job-description,netherlands",48,48
+1,135311,389083,Packing equal-size disks in a unit disk,"co.combinatorics,discrete-geometry,extremal-combinatorics,circle-packing",5,5
+0,4877241,35556050,secTaskDiagnoseEntitlements MISSING keychain entitlements: no stored taskRef found,"ios,xcode,swift,watchos-2",24,24
+3,136731,245223,Why did Dumbledore say there was “precious little to celebrate” specifically over the 11 years before Voldemort failed to kill baby Harry?,harry-potter,22,22
+1,58945,36618274,Send custom object using Android native Binder,"android,c++,android-ndk,java-native-interface,android-binder",24,24
+1,139513,245265,Book where humans and robots co-existed and slaves could earn freedom through playing games,"story-identification,books",19,19
+1,853462,36908978,Keras not using multiple cores,"python-3.4,theano,blas,keras,openblas",24,24
+1,6684299,41133171,Log error when accessing the apple menu in a Sandboxed macOS App,"swift,xcode,macos",24,24
+0,1156245,42864262,Persistent warnings from earlier commands with RStudio,"r,rstudio",26,26
+0,3900270,45281257,Crashing on iOS 11 inside of CFNetwork,"crash,crashlytics,cfnetwork,ios11",24,24
+0,5488621,45439753,AIR Build Server Setup,"actionscript-3,jenkins,air,continuous-integration,adt",24,24
+0,315702,34427893,WebView native crash: libwebviewchromium.so “Operation not permitted” - ILL_ILLOPC,"android,crash,android-webview,samsung-mobile",24,24
+0,6025113,46772714,How to set encoding in PHP FPDI library,"php,pdf,fpdf,fpdi",24,24
+2,3151675,46361410,What causes visual glitches with Xcode 9's iOS Simulator and how can I fix them?,"ios,xcode,ios-simulator",24,24
+5,9390292,51414927,Calling filter methods in row after the previous is finished,"angular,angular5,primeng",24,24
+3,3839882,38300923,Angular 2 Initial loading progress,angular,24,24
+5,5511043,47385912,background geolocation ionic 3 not updating,"angular,ionic-framework,ionic2,ionic3",24,24
+0,5222864,53901441,Android emulator authorization dialog appear “always allow from this computer” everytime,"android-studio,android-emulator",24,24
+0,2833860,57027891,SwiftUI UITableView was told to layout its visible cells and other contents without in view hierarchy,"list,warnings,swiftui,view-hierarchy",24,24
+1,119549,53127140,NPM lockfiles/shrinkwrap get random “dl” parameter tacked on to the “resolved” URL,"npm,artifactory,lockfile,npm-shrinkwrap",24,24
+0,2624806,57493822,How to identify if device has in-display Biometric fingerprint support?,"android,android-fingerprint-api,in-display-fingerprint",24,24
+0,5167801,58866560,flask_sqlalchemy `pool_pre_ping` only working sometimes,"python,mysql,flask,flask-sqlalchemy,connection-pooling",24,24
+1,613114,59672465,Junit tests not working with Drools 5.4.0.Final and JDK 8,"java,maven,junit,java-8,drools",24,24
+0,10758175,58686708,Execution policy exception registration failed and was skipped: Error Domain=NSPOSIXErrorDomain Code=1 “Operation not permitted”,"ios,cordova,ionic-framework,cordova-ios",21,21
+0,13363205,64376608,Android Studio shows C++ file icon on every file,android-studio,24,24
+2,1939282,60089596,"SMS retriever api android not working in vivo v15 pro, redmi note 4","android,kotlin,sms-retriever-api",21,21
+0,8097840,63076002,Code formatter like nb_black for google colab,"google-colaboratory,pep8",24,24
+3,135061,591014,Best way to write $\lim^1$,spacing,10,10
+0,239879,60937046,How can I remove distortion introduced by librosa griffin lim?,"python,librosa,soundfile",21,21
+3,83431,113240,Why the difference between Thanos on Titan and on Earth?,"plot-explanation,marvel-cinematic-universe,avengers-infinity-war",14,14
+1,3891038,59007007,Is there an equivalent of “tools:layout=” for FragmentContainerView?,"android,android-studio",22,22
+2,721611,43843079,Using “tail -f /dev/null” to keep container up fails unexpectedly,"docker,ubuntu-14.04",22,22
+4,93171,115029,Is there such a thing as a dish being bland from too many flavors?,"flavor,spices,seasoning",29,29
+2,6372326,49078164,How to debug Angular universal?,"node.js,angular,angular-universal",22,22
+3,32035,221150,"Strange suction in toilet and sink, like a vacuum in the sewer pulling the water out","plumbing,drain,drainage,sewer",11,11
+2,1379706,18459582,java.lang.IllegalStateException: getAttribute: Session already invalidated,"java,spring,session,spring-mvc,httpsession",22,22
+1,778234,13132459,Webkit browser's inspector is missing a few things,"ubuntu,webkit,gtk,gtk3",22,22
+1,1350902,53596389,Modal BottomSheetDialog with fullscreen ToolBar and Softkeyboard,"android,android-toolbar,android-softkeyboard,bottom-sheet",22,22
+4,3396396,46585075,Android: How to make type converters (for Room) generic for all List of objects in Kotlin,"android,generics,kotlin,android-room",22,22
+0,1032172,29848410,Custom IServiceProvider in WPF,wpf,22,22
+1,272824,31130031,Google analytics problems after play services upgrade to 7.5,"android,google-analytics,google-play-services",22,22
+0,1204143,25776671,Reading RGB images with an ImageReader,"android,android-camera",22,22
+2,1795643,32974679,ios Xcode 7.0.1: ui unit testing stuck on “Waiting for accessibility to load”,"ios,xcode,unit-testing,xcode7",22,22
+3,1195621,33907543,Xcode Server ibtool Build Failures,"ios,xcode,macos,xcode-server",22,22
+0,824833,13063338,Error while building the whole enchilada in openmobster,"ubuntu,cloud,openmobster",22,22
+1,702191,39120831,Selecting an option can cause VoiceOver to jump to top of page,"html,accessibility,voiceover",22,22
+1,3485,45937854,"How to read from AsyncStorage in native code (Java, ObjectiveC/Swift)","java,android,ios,objective-c,react-native",22,22
+1,811748,40397930,No symbol directories found - please check your native debug configuration,"android,gradle,configuration,android-ndk",22,22
+0,1089153,45000910,Spacemacs Web Mode - Indentation not working as expected,"html,emacs,spacemacs",22,22
+0,929075,34859497,Chrome custom tabs not opening other apps,"android,chrome-custom-tabs",22,22
+0,2524877,51084241,What is `Can't find variable: loadHomepageTiles` error on iOS 11.3,"ios,ios11.3,ios11.4",22,22
+1,7825979,48008486,Google play Subscriptions Free trial,"android,google-play,in-app-billing,in-app-subscription",22,22
+0,-1,44913292,logcat error : E/ExtMediaPlayer-JNI: env->IsInstanceOf fails,"java,android,user-interface,albumart,mediametadataretriever",22,22
+0,1068232,40395946,Compatibility of impredicative Set and function extensionality,coq,22,22
+1,88111,58596686,How to profile React Native source code using Xcode/Instruments/Time Profiler,"javascript,ios,xcode,react-native,instruments",21,21
+1,3453041,57541901,"C# performance profiler shows long pause, unable to determine what it is from the data provided","c#,performance,opentk",20,20
+2,52101,100084,Why does UV radiation from the Sun cause skin cancer?,"cancer,biophysics,skin,radiation,uv",7,7
+3,682958,60081319,Deadlock when many spark jobs are concurrently scheduled,apache-spark,20,20
+1,6179247,50399092,Setting UIaccess altering behavior of ShowDialog,"c#,wpf",21,21
+2,196688,557871,Why should BJTs be saturated in switching circuits?,"transistors,bjt,saturation",2,2
+3,1651,146870,Perspective Arc Text in Illustrator,"adobe-illustrator,text,perspective",3,3
+9,20458,563913,Is “Blitzkrieg” a word that average native speaker would understand?,"meaning,meaning-in-context",12,12
+1,2554352,36955424,Instagram /tags/\(hashtag)/media/recent endpoint not returning pagination?,"ios,swift,instagram",21,21
+2,4518577,52489770,How to generate sourcemaps using Angular CLI and upload them to Sentry?,"angular,continuous-integration,source-maps,sentry",21,21
+1,183753,10262938,SQLAlchemy default filter,"python,sqlalchemy",21,21
+1,3299333,51138460,Filtering render functions from CodeClimate method-lines check,"reactjs,code-climate",21,21
+0,1879574,29875526,Backbone from NPM via JSPM,"jquery,backbone.js,jspm",21,21
+0,2589007,32658307,AudioUnit: Error reported by mediaserverd - “Error 'what' getting client format for physical format”,"ios,ios9,audiounit",21,21
+3,4896449,51298465,"Webpack error, Loading chunk failed","javascript,webpack,vue.js,babeljs",21,21
+1,2150869,31352639,How to safely shutdown a Play Framework app,playframework,21,21
+1,2885075,31705767,UIActivityViewController thinks my jpg is video when share by file URL,"ios,iphone,uiimage,uiactivityviewcontroller,uiactivity",21,21
+1,5662760,34240166,Launch an Android Wear app with a “Start …” voice command,wear-os,21,21
+3,3554734,23187180,finite field arithmetic over GF(2^n)?,"python,python-2.7,cryptography,number-theory,finite-field",21,21
+0,4263108,36138747,Is it possible to access mouse events in a Visual Studio Code extension,"visual-studio-code,vscode-extensions",21,21
+0,389200,30119422,Azure SDK Upgrade from 2.2 to 2.6,"azure,azure-sdk-.net",21,21
+0,872351,34926845,Why is IE11 “Total memory” so much larger than heap snapshot size?,"internet-explorer,memory-leaks,ie-developer-tools",21,21
+0,672421,37577047,"Is it possible to programmatically call a Chrome Custom Tab, but as “incognito mode”?",chrome-custom-tabs,21,21
+0,6261129,36888264,Dynamodb streams in python,"amazon-dynamodb,boto3,amazon-dynamodb-streams",21,21
+0,3169543,34456286,Haskell: How “cache” friendly is Lazy Eval / call by need,"haskell,caching,lazy-evaluation,call-by-need",21,21
+4,108123,139344,Are new dividend investors severely disadvantaged by ongoing rising dividend growth stock prices?,investing,5,5
+1,2801559,38195855,How to create an ArrayBuffer and data URI from Blob and File objects without FileReader?,"javascript,blob,fileapi,data-uri,typed-arrays",21,21
+1,1907692,37485420,Android USSD which sim receive a ussd message or which sim slot receives a ussd message (dual sim phone),"android,mobile,ussd,dual-sim",21,21
+4,50677,75946,Recommendations on how to buy clipless bike shoes,"shoes,clipless,pedals-clipless",3,3
+2,17294,22012415,"PBRequester failed with Error -1001 “bad URL” for Apple Maps download on simulator, but not on device","ios,apple-maps",20,20
+1,2263858,25169975,"Unity3D/Xcode: Debug Logs not available on Device, can't see in Console","ios,xcode,unity3d,xcode5.1",20,20
+2,346804,31434909,Hide child process console window,"javascript,node.js,windows,child-process,forever",20,20
+0,61164,26615139,How do I correctly configure a WCF NetTcp Duplex Reliable Session?,"wcf,configuration,duplex-channel",20,20
+0,604004,29552048,How to redirect to another wiki page in GitHub flavored Markdown?,github-flavored-markdown,20,20
+0,2423379,34685652,Choropleth map using folium and pandas,"python,choropleth,folium",20,20
+0,3877726,40668431,Understanding JavaScript heap,javascript,20,20
+1,987860,41678578,Websocket ServerEndpoint instance by subprotocol,"java,jakarta-ee,websocket,javax",20,20
+0,121165,39776944,Get Chrome's “Recalculate Style” Profiling Event Affected DOM Elements,"css,performance,google-chrome,profiling",20,20
+0,3711588,40579824,redirect sys.stdout to specific Jupyter Notebook cell,"python,ipython,jupyter-notebook,io-redirection,sys",20,20
+1,7276386,47076989,"API error: <_UIKBCompatInputView: 0x13fd1d7c0; frame = (0 0; 0 0); layer = <CALayer: 0x1c4426e40>> returned 0 width, assuming UIViewNoIntrinsicMetric","ionic-framework,ionic2,ionic3",20,20
+0,1348103,48355999,"Weird Native Crash - pid: 0, tid: 0 signal 11 (SIGSEGV), code 1 (SEGV_MAPERR)","android,java-native-interface,native,segmentation-fault",20,20
+0,412107,41449749,How can I skip the first occurrence of a repeating UNCalendarNotificationTrigger?,"ios,usernotifications",20,20
+0,465378,45360959,“Illegal type synonym family application in instance” with functional dependency,"haskell,functional-dependencies,type-families",20,20
+2,3241889,41618538,Securing REST microservices with Spring Security,"spring,spring-security,microservices",20,20
+3,2804071,49676338,Nextjs fails to find valid build in the '.next' directory in production node_env,"node.js,reactjs,docker,next.js",20,20
+0,305020,50016949,Open .NET Core 2.0 dump in lldb on Linux - which lldb version?,"linux,ubuntu,.net-core,lldb",20,20
+0,3689085,49807620,Using JQuery Server side datatables in ruby app and pagination shows blank page after 1st page,"jquery,datatables,server-side",20,20
+4,1114926,50815811,Execution failed for task ':app:compileDebugJavaWithJavac':,"android,react-native,react-native-android,react-native-ios",20,20
+0,878126,49930676,"How does “parallel apps” feature work on OnePlus 3 devices, and how can we use Intents properly with them?","android,oneplusthree,parallel-apps",20,20
+2,-1,51051833,Chrome Extension Persistent,"google-chrome,google-chrome-extension,google-chrome-devtools",20,20
+0,3329836,47789257,.Net Core Process.Start on Linux,".net,linux,.net-core",20,20
+0,3448003,49643383,HTTP/2 protocol not working with okhttp,"android,retrofit,retrofit2,okhttp,okhttp3",20,20
+0,5274202,52879259,completionHandler of the 2 methods performFetchWitchCompletionHandler AND didReceiveRemoteNotification interfere each other?,"ios,swift,completionhandler,background-fetch",20,20
+2,10056073,53495230,"Cookies don't show up in developer console of Safari/Chrome with Set-Cookie Header, but exist when looking at server logs","javascript,ajax,cookies,google-chrome-devtools,safari-web-inspector",20,20
+0,7687388,54929200,How do closures infer their type based on the trait they're required to implement?,"generics,rust,closures,traits",20,20
+0,7586765,52974137,Populating nested dropdowns using backpack for laravel,"php,laravel,backpack-for-laravel",20,20
+0,1481095,53844996,Windows native callback only returns 32 bit result on 64 bit platform,go,20,20
+4,7409203,52078925,How to use SignalR in Unity3d?,"unity3d,nuget,signalr",20,20
+1,11428323,55908423,"How to find multidimensional path of exact 0 cost with 1, 0, -1 weights","algorithm,graph-algorithm,path-finding",20,20
+0,7562022,56671017,Event Data Collected by Firebase Analytics DebugView Is Incomplete,"ios,firebase,firebase-analytics",20,20
+3,8380398,57170737,Cannot run tflite model on GPU (Jetson Nano) using Python,"python,tensorflow,tensorflow-lite,nvidia-jetson",20,20
+0,3082944,55419708,Yarn ignore-engines for specific packages,"node.js,yarnpkg",20,20
+0,6781873,39264501,Writing Coverity model: pointer in struct ALWAYS points to tainted data,"code-analysis,coverity",21,21
+0,2422749,39565367,enum of objects in swagger UI?,"swagger,swagger-ui,swagger-2.0",21,21
+0,74316,40987263,Using MVC .Net Core Tag Helpers in MVC 5,"asp.net-mvc-5,tag-helpers",21,21
+1,266720,41174003,How do I make make/ninja limit parallelism based on memory pressure?,"memory,makefile,build,parallel-processing",21,21
+0,492336,41186897,Hook OData's $metadata response and convert it from XML to JSON,"c#,json,asp.net-web-api,odata",21,21
+0,1275011,45178143,How do I update the Cordova version used by VS2017 Apache cordova Tools?,visual-studio-cordova,21,21
+1,6620425,41751811,How to Programmatically Clear Bluetooth Cache using GattServer,"android,bluetooth,bluetooth-lowenergy,clear-cache,bluetooth-peripheral",21,21
+1,1583045,42386497,AVAudioPlayerNode lastRenderTime,"ios,avaudioengine,avaudioplayernode",21,21
+2,1740814,45377887,Google's mobile-friendly test - couldn't load resources,google-webmaster-tools,21,21
+2,1222951,46263274,How can I prevent sphinx from displaying the full path to my class?,"python,python-sphinx,sphinx-apidoc",21,21
+0,1271445,43797396,CertPathValidatorException: Trust anchor for certification path not found,"android,ssl,okhttp3,okhttp",21,21
+0,3662343,48308121,Swagger definition for firebase authentication,"firebase,firebase-authentication,google-oauth,swagger,swagger-ui",21,21
+1,685847,47302166,How to integrate Google lens in my app?,"android,google-goggles",21,21
+0,188740,48603909,Facebook Open Graph og:video tag for YouTube videos,"facebook,facebook-graph-api,video,youtube",21,21
+0,8345272,49282165,WebSocket connection to 'ws://localhost:4000/sockjs-node/612/2pdjfv15/websocket' failed: Connection closed before receiving a handshake response error,"angular,webpack,websocket,webpack-dev-server,browser-sync",21,21
+2,6031367,49461299,How does scipy.minimize handle NaN's?,"python,optimization,scipy,nan,minimize",21,21
+1,9876130,50625502,LibXL: excel cross-sheet formulas not updated,"c++,excel,office365,libxl",21,21
+2,2947424,49124735,Uwp app crash immediately after compiled with .net native toolchain,"c#,.net,uwp,windows-store-apps",21,21
+0,4619179,50091110,Netty: Idle State Handler is not showing if channel is idle,"java,netty",21,21
+0,4866692,51927906,Swagger. How to define file download operation correctly,"swagger,swagger-codegen,swagger-editor",21,21
+1,5937519,53479771,Run Selenium parallel test on Azure batch,"r,selenium,foreach,rselenium,azure-batch",21,21
+1,5986598,50654556,Spotify Web API - Authenticate user via native mobile app rather than browser?,"javascript,ios,spotify",21,21
+0,11053858,54661171,"what is the meaning of security_token in system, native_context in global in node heap snapshot","node.js,heap-memory",21,21
+1,3698232,56130244,How to add a user exception to “Require pull request reviews before merging” option in git protected branch?,"github,circleci",21,21
+1,7598296,50052245,"Removing SCNNode nodes from scene.rootNode is causing a crash, in SceneKit","ios,swift,scenekit",21,21
+0,9120281,58302215,GoogleAnalytics.Property 'parameters' on Entity 'GAIHit' is using nil or an insecure NSValueTransformer,"ios,objective-c,google-analytics",22,22
+1,855472,50546154,Documenting class attributes with type annotations,"python,python-3.6,python-sphinx,autodoc,sphinx-napoleon",23,23
+1,594763,12363253,Why is Xcode auto indentation is so bad? And how can I make it any better?,"xcode,indentation,code-formatting",23,23
+0,6382895,52812033,Getting DeadSystemException on Samsung SMG950U (Android 8.0.0) and SM 955 (Android 8.0.0),"android,crash,samsung-mobile",22,22
+0,10264178,61006626,Is there a command to get latest build number from Firebase App Distribution just like TestFlight latest_testflight_build_number?,"ios,firebase,fastlane,firebase-app-distribution",22,22
+2,719841,15281200,Click overlay marker in Google Maps with capybara-webkit,"capybara,capybara-webkit",23,23
+0,6183021,56262137,Slow sass-loader Build Times with Webpack,"webpack,build,sass,webpacker,sass-loader",21,21
+0,84704,11033956,How do I write a TDBCtrlGrid VCL Style custom class?,"delphi,delphi-xe2,vcl-styles",23,23
+2,496413,16626182,phantomjs compile with webGL,"qt,webgl,phantomjs,qtwebkit",23,23
+1,237403,47690768,Integrating JavaScript web plugin in Ionic 2,"javascript,jquery,ionic2,applozic",23,23
+0,8119401,44758262,How to implement Steam Auth with Firebase?,"javascript,node.js,firebase,firebase-authentication,steam",23,23
+7,1091436,23243533,what makes a variable be visible (intellij idea),"scala,intellij-idea",23,23
+0,650261,54245623,Optimizing subgraph of large graph - slower than optimizing subgraph by itself,"python,tensorflow",23,23
+0,4140668,56419723,Which of these implementations of seqlock are correct?,"c,rust,atomic,memory-barriers",23,23
+0,5520753,54863255,How to create only one copy of graph in tensorboard events file with custom tf.Estimator?,"python,tensorflow,tensorboard,tensorflow-datasets,tensorflow-estimator",23,23
+0,2898801,56518902,Why do I get “identifier is undefined” or “not available” when inspecting a Rust variable in the Visual Studio debugger?,"debugging,visual-studio-code,rust",23,23
+0,155186,63078880,Why does Archive fail if there is code for SwiftUI Previews in the Preview Content folder?,"swift,xcode,swiftui",23,23
+2,706628,53291729,Android app runs very slowly after resuming from breakpoint,"android,android-studio,android-debug,android-studio-3.2",23,23
+1,584392,16664404,Ignore WebSocket connection in Spring Security SavedRequest,"grails,spring-security,websocket,atmosphere",24,24
+0,325320,16765341,Chicago Boss: Routes does not work in production mode?,"erlang,chicagoboss",24,24
+1,5657406,44619595,Passive event listener in Select Tag,"javascript,jquery,html,css",23,23
+0,1639586,25873329,Using PacketFilter to transparently proxy packets in OS X,"macos,networking,osx-mavericks,firewall,openbsd",24,24
+0,1868323,30489700,ExecuteRequestHandler spent most of the time,"performance,iis-7.5,newrelic,azure-cloud-services",24,24
+2,14738,33163306,iOS SecTrustRef Always NULL,"ios,objective-c,ssl,tcp",24,24
+3,866220,32579461,nginx set remaining count for limit_req in X-RateLimit-Remaining header,"nginx,server,devops",25,25
+1,2234898,17856595,OpenERP font-family: 'Free 3 of 9' for barcode is not working in report webkit,"css,fonts,webkit,odoo,mako",24,24
+4,6374527,54563854,How to animate Flutter layout on keyboard appearance,"ios,dart,flutter",25,25
+2,2085626,37369129,"Template partial specialization for integral non-type parameters and non-integral non-types, difference between g++ and clang","c++,templates,template-specialization,partial-specialization",25,25
+4,8726546,49964863,VS Code breakpoints jump to other lines,"javascript,node.js,testing,visual-studio-code,jestjs",25,25
+2,97614,35182686,Why do my PDB's for my VB6 project not match the generated dll?,"vb6,debug-symbols,pdb-files",25,25
+1,61320,7775958,"FB.ui feed dialog is “ignoring” the picture attribute, using cached og:image tag instead","facebook,dialog,feed,image,fb.ui",25,25
+1,2059100,18938682,Clang Error: Reference to NSUTF8StringEncoding is ambiguous,"xcode,xctest,nsstringencoding",24,24
+0,150136,12811859,How to make a composite manifest for Microsoft smooth streaming,"silverlight,iis,manifest,composite,smooth-streaming",25,25
+1,2506238,19765012,Failed to receive system gesture state notification before next touch,"ios,objective-c,uiviewanimation,uipinchgesturerecognizer",25,25
+2,1399059,25633748,Upgrading Grails MongoDB GORM broke projections on list properties,"mongodb,grails,gorm,gorm-mongodb",25,25
+4,5764616,34687024,Invalid WS Security Header - IRS ACA SOAP Request,".net,web-services,wcf,soap,irs",25,25
+1,2385565,27166192,HTML 5 File input with iOS and Android [Cordova/Phonegap],"android,ios,html,cordova",25,25
+0,3728012,24152748,many parallel applications of a sequential transform in repa,"haskell,sequential,repa",25,25
+0,753990,12868117,How to get GHCi to load the opengl package under GHC 7.6.1 x86-64 Windows 7?,"opengl,haskell,ghci",25,25
+1,2404943,28557567,"In RubyMine, how to preview a file's contents by selecting it like in Sublime Text?",rubymine,25,25
+1,783504,28378086,Drupal 7 and Omega 3 - how to force use of desktop menu when grid is fluid,"drupal,drupal-7",25,25
+1,4895387,30212825,How to convert Rep[T] to T in slick 3.0?,"slick,slick-3.0",25,25
+1,1160554,30505666,"Sitecore 8, MVC, Experience Editor: How to make a rendering refresh after a Field Editor Button has been used","sitecore,sitecore-mvc,sitecore8",25,25
+2,377920,15071589,Restrict Google Places Autocomplete to return addresses only,google-places-api,25,25
+1,2334509,22714624,Write/create file within Android Instrumentation context,"android,testing,android-context,instrumentation",25,25
+2,1543737,32668498,error: <identifier> expected with package com.native,"android,react-native",25,25
+0,5247504,32121361,AVPlayer frame animation,"ios,swift,video,avfoundation",25,25
+2,1035897,38407128,How to generate video file from QImage sequence using QMediaRecorder in Qt5 C++,"c++,qt5,video-encoding,qmediarecorder,qmediaservice",25,25
+1,131717,32310291,Web API 2 RegisterExternal Account with existing access token,".net,asp.net-web-api,asp.net-web-api2",25,25
+1,6454116,39003884,"Install heroku cli on linux *without* root, and *no auto update*","heroku,command-line-interface",25,25
+1,1454813,38595363,Slack Attachment Width and Wrapping Issues,"attachment,slack,slack-api",25,25
+1,6561309,42664398,Google OAuth Client with Angular/Ionic: How do I find the redirect_uri?,"angular,ionic2,google-plus-signin",25,25
+2,3814319,37899365,MS Bot Builder: how to set session data to proactive message?,"c#,botframework",25,25
+3,6511546,44150310,openAi-gym NameError,"python,python-3.x,nameerror,windows-subsystem-for-linux,openai-gym",25,25
+0,334493,46128633,How to filter a nested relation in Room?,"android,sqlite,android-room",26,26
+0,704836,44397765,Play Store updates/installs app using a different account than the one the user made IAP through,"google-play,in-app-purchase,google-play-services,in-app-billing",25,25
+2,7343596,50434522,Xcode 9 folder references with custom project template,"ios,xcode,templates,directory,project",26,26
+1,535630,51490707,AWS Cognito's SMS Multi Factor Authentication returns invalid code or auth state,"go,aws-cognito",26,26
+2,2688543,51023178,Stitching secure subscriptions using makeRemoteExecutableSchema,"graphql,apollo,apollo-server,graphql-subscriptions,graphql-tools",26,26
+1,2292448,26712241,How to find and fix a Rails and Couchbase memory leak,"ruby-on-rails,ruby,caching,couchbase",27,27
+2,711659,48867536,Chrome update slowed Ajax/Angular Network rendering and loading,"angularjs,ajax,performance,google-chrome",26,26
+4,440093,4566435,How to get libcap (Linux capabilities library) for Android?,"android,linux-capabilities",27,27
+1,3151675,46938286,"Xcode - sort files by name, put folders (groups) first",xcode,26,26
+1,628228,49940530,What System.Drawing classes count as GDI objects?,"c#,winforms,gdi+",27,27
+1,5867542,50304096,How to quantize all nodes except a particular one?,tensorflow,26,26
+1,1785984,13955606,Why has `android:screenOrientation=“behind”` no effect in android 4.1.2?,"android,android-activity,orientation,screen-orientation,android-orientation",27,27
+0,446519,14605765,Unit-Test project fails to build after installing .NET 4.5,"wpf,unit-testing,.net-4.5,icommand,vs-unit-testing-framework",27,27
+0,4076688,26492658,How to Update Frames for all Size Classes in a Storyboard in Xcode 6.1?,"xcode6,scene,size-classes",27,27
+0,4081597,30227574,How to create a CocoaPod with nested git submodules?,"git,cocoapods,git-submodules",27,27
+2,6223726,40273711,Some documentation features not working in Xcode 8,"swift,xcode,documentation,xcode8",27,27
+0,4337240,40048404,debugserver died with an exit status of 0x00000000,"ios,xcode,ios-simulator",27,27
+0,4268574,41379885,What is the “:ABPerson” string in CNContact identifier?,"ios,objective-c,cncontact",27,27
+3,30280,12788121,What's different about Screensaver preview in Windows 8?,"wpf,windows-8,screensaver",27,27
+2,-1,30027028,Parse error codes 209 and -34018,"ios,parse-platform",27,27
+2,1531885,46420974,Owned type mapping EF Core fails when saving,"c#,.net-core,entity-framework-core",27,27
+1,1331773,37778833,UnhandledErrorDetected: Unspecified error COMException,"win-universal-app,uwp,windows-10-universal,windows-10-mobile",27,27
+1,10818494,64767285,iPhone 12 mini screen parameters are unexpected,ios,27,27
+1,1499416,41807115,Phantom RStudio Errors,"r,rstudio,macos-sierra",28,28
+1,2139044,45064522,Android app crashes at start with “E/dex2oat: Failed to create oat file” and “non-0 exit status”,"java,android,android-studio,logcat,dex",27,27
+1,8360272,49619076,DefaultRenderer error in xamarin.forms (Android),"android,mobile,xamarin.forms,renderer",27,27
+0,967484,27805894,xCode6 how to disable “Lost connection to iPhone” message when unplugging a device?,"iphone,debugging,ios8,xcode6",28,28
+1,3685148,30685707,What is the difference between Dataflow programming and Reactive programming?,"computer-science,reactive-programming,dataflow,paradigms,glossary",28,28
+0,3402703,48485754,DiagrammeR mermaid: inconsistent results in rmarkdown ioslides,"r,r-markdown,ioslides,diagrammer,mermaid",27,27
+0,1311272,62532760,"SwiftUI warning: `Attempting -[UIContextMenuInteraction dismissMenu], when not in an active state`","swiftui,xcode12",27,27
+0,5081272,31225290,Galera 10 cluster node dropping queries,"mariadb,galera",28,28
+1,1151242,32255666,InterruptedException when debugging Android app,"android,debugging,interrupted-exception",28,28
+2,290696,20501591,Ebean - Dynamic Query - Prepared Statement's Mismatched Parameter Count Error,"java,mysql,playframework-2.0,ebean",29,29
+4,1518273,30859572,How to reset view to original state after using animators to animates its some properties?,"android,animation,objectanimator,viewpropertyanimator",29,29
+0,2191417,63951616,Xcode 12 IPHONEOS_DEPLOYMENT_TARGET warning for SPM dependencies,"xcode,swift5,swift-package-manager,xcode12",28,28
+1,789756,46582922,JEP 295 AOT: Objects compiled multiple times,"java,java-9,aot,jep,java-aot",29,29
+1,5069515,31161209,Connecting to Mongo database through SSH tunnel in Java,"java,mongodb,ssh,jsch,tunnel",29,29
+1,12153542,58201291,Chrome autocomplete lock inputs like they are not clickable,"javascript,html,angular,google-chrome,frontend",29,29
+0,867671,32170982,Materialize the Value for a Type that has One Inhabitant,"scala,macros,shapeless,type-level-computation",28,28
+0,1179593,63273838,Why am I getting “Indicate whether to send a cookie in a cross-site request by specifying its SameSite attribute”?,"cookies,express-session",28,28
+0,929142,10797597,ASP.NET MVCScaffolding is very slow,"asp.net-mvc,scaffolding,asp.net-mvc-scaffolding,t4scaffolding",29,29
+1,1587011,12594987,How to callback NSStreamDelegate with NSStreamEventOpenCompleted?,"ios,iphone,cocoa-touch,nsstream",29,29
+0,1786681,13147107,"Typekit and @fontface issues on all Windows browsers with Ruby on Rails app, especially Chrome","ruby-on-rails,windows,google-chrome,font-face",29,29
+1,1689780,22813411,Intermittent 401 Unauthorized from Google GCM,"android,google-cloud-messaging,http-status-code-401,unauthorized",29,29
+0,2276904,18244861,Small file upload to s3 hangs with 100% CPU usage using Paperclip,"upload,amazon-s3,paperclip,cpu",29,29
+1,2887196,29814919,Custom Claim Handling Failed In Single Sign On,"wso2,single-sign-on,saml-2.0,wso2is,claims",29,29
+1,7744717,42925436,Android webview crash “Fatal signal 5 (SIGTRAP)”,"javascript,java,android,webview",29,29
+0,1783237,34351798,Running asyncio loop engine using external python plugin,"python-3.x,uwsgi,python-asyncio,greenlets",29,29
+0,909777,31745927,Nightwatch.js - Use the same browser session,"selenium,nightwatch.js",29,29
+0,6564973,41433748,Matlab VLFEAT -multiple matching,"matlab,opencv,computer-vision,vlfeat",29,29
+3,3204919,43440652,Ionic 2 : Refresh tabs view after adding a new dynamic tab,"javascript,angular,ionic-framework,tabs,ionic2",29,29
+1,2376052,47799388,Javascript Google Maps API & non-passive event handlers,"addeventlistener,passive-event-listeners",29,29
+4,2487124,42285850,Horizontal RecyclerView with items that have dynamic height,"android,android-recyclerview",30,30
+2,1439707,58061693,"Espresso generating FileNotFoundException, when used with Dagger","android,unit-testing,kotlin,android-espresso,dagger-2",29,29
+0,3897775,57555570,Deeplink to Facebook App (using fb: protocol) not working from Facebook in-app browser,"javascript,php,html,facebook,.htaccess",29,29
+1,942671,49221066,How to make Jersey work with Dagger dependency injection?,"java,dependency-injection,jersey,dagger-2,jsr330",30,30
+4,1129669,9289640,Paging does not work and maybe I found the cause,"android,facebook-graph-api,paging,facebook-fql",30,30
+1,1350987,45239315,SSIS Script Component Cannot Load Assembly Until Manually Opened,"c#,sql-server,visual-studio,ssis,biml",30,30
+3,589558,54004266,Azure DevOps Pipelines “Waiting for console output from an agent…”,"azure-devops,azure-pipelines,azure-pipelines-release-pipeline,azure-pipelines-build-task",30,30
+0,1485738,11227419,Cargo plugin throws CargoException when deploying on Glassfish - Deployment has failed: null,"linux,maven,ubuntu,glassfish,cargo",30,30
+0,2872294,25870202,Was the origin positioning 'box' removed from Xcode 6?,"xcode,interface-builder,xcode6",30,30
+1,961148,27396792,VoiceOver focus resetting UICollectionView to first entry?,"ios,objective-c,uicollectionview,accessibility,voiceover",30,30
+1,9665691,49905472,"Android Studio: Hardware backing HAL too slow, could only write 0 of 720 frames","java,android,multithreading,processor,hal",29,29
+0,4767895,31399537,Set Tesseract font for OCR,"fonts,ocr,tesseract",30,30
+0,667786,34336065,Pragmatics of typed intermediate languages,"compiler-construction,ghc,compiler-optimization,llvm-ir,intermediate-language",30,30
+0,241643,35614353,"How can I dispatch on traits relating two types, where the second type that co-satisfies the trait is uniquely determined by the first?","julia,traits",30,30
+1,246568,45884280,Use angular-tree-component in “dotnet new angular” project?,"angular,tree,dotnet-cli",30,30
+1,829900,46059677,registerIdlingResources deprecation replacement doesn't work,"android,android-testing,android-espresso",30,30
+1,164388,41369981,Firebase reporting GoogleTV for some iOS users,"ios,firebase-analytics,google-tv",30,30
+2,507313,34595995,FileProvider in Android 4.1/4.3/4.4 Email App fails with column '_data' does not exist,"android,android-intent",31,31
+1,10579295,53060432,How to create xiomi emulator for android studio? or any other way to test app on xiomi emulators,"testing,android-emulator,xiaomi,redmi-device",31,31
+1,703700,11827565,iCloud and Core Data Error (Ubiquity: Didn't get baseline metadata back from metadata url),"ios,core-data,icloud",31,31
+1,178083,42135297,Setting up Bluetooth automatic pairing on Linux,"linux,bluetooth,bluez,rfcomm",30,30
+0,5661561,34252188,Logcat error message - Attempted to destroy barrier with non zero count,"java,android,parse-platform",31,31
+1,7135043,42344757,"Error Domain=AVFoundationErrorDomain Code=-11800 “The operation could not be completed. Error Domain=NSOSStatusErrorDomain Code=-16170 ”(null)""",ios,31,31
+0,841108,43141659,Is recent GTK 3.22 still Boehm GC friendly (thread issue)?,"c,linux,multithreading,gtk,boehm-gc",31,31
+1,5086286,60535901,What do I need to cache in my CI job to avoid ngcc recompiling each time?,"angular,continuous-integration,circleci,angular9,angular-ivy",31,31
+0,1547399,48615324,android ndk gdb loaded sharedlibraries missing *.oat,"android,android-ndk,gdb,gdbserver",31,31
+1,13898260,63201951,Serviceworker must be a dictionary in your web app manifest,"javascript,firebase,vue.js,razorpay",32,32
+1,358713,6709057,Visual Studio Project/Item Template Parameter Logic,"visual-studio,logic,project-template",32,32
+1,925001,11739098,Widget onUpdate called when Configuration Activity is launched,"android,android-widget,broadcastreceiver,android-manifest,android-appwidget",32,32
+4,5511520,40336777,Rails 4 + append_view_path,"ruby-on-rails,ruby-on-rails-4",32,32
+1,1666298,19729167,Jump to Definition goes to derived data folder for static library's header files instead of the static library project,"xcode,xcode5",32,32
+0,593308,20033549,How to do rest authentication with Spring Social?,"spring,spring-security,spring-social,spring-security-oauth2",32,32
+0,2066546,20263883,FnordMetric Toplist Gauges Disappear,"ruby-on-rails,metrics",32,32
+1,889158,45497696,How chrome browser determine memory cache and disk cache?,"google-chrome,caching,browser-cache",33,33
+2,993439,31512175,Android 5.x: Why does Dialog.Builder cuts text off?,"android,android-alertdialog",33,33
+4,1401164,35796686,How to keep the toolbar visible with adjustPan?,"android,layout,keyboard,android-toolbar",33,33
+0,1546593,36353856,How to handle changes from MediaSession remote volume overlay?,"java,android",33,33
+2,1792357,45012652,Gitlab CI + DinD + MySQL services permission issue,"mysql,docker,gitlab-ci,gitlab-ci-runner",33,33
+0,538973,55533312,How to create a letter spacing attribute with pycairo?,"python,pygobject,pango",32,32
+8,146408,40111163,IE11 XMLHttpRequest really slow performance,"javascript,angularjs,performance,internet-explorer-11,angularjs-material",33,33
+3,3701102,52522308,Change title color of navigation bar in MFMailComposeViewController in iOS 12 not working,"ios,iphone,swift,uinavigationbar,mfmailcomposeviewcontroller",34,34
+0,8596082,46481042,How to get the body of the WebResourceRequest in android webView,"android,webview",34,34
+0,5479131,43534272,E/libEGL: validate_display:99 error 3008 (EGL_BAD_DISPLAY) android os 7.1 nougat,"android,android-7.1-nougat",33,33
+1,1181097,50789125,How to get an rmarkdown vignette for R package to escape CRAN warnings on Solaris and OSX,"r,r-markdown,knitr,cran",33,33
+2,2235287,16099280,TFS Build Test Results,"c#,unit-testing,build,tfsbuild",35,35
+0,2870974,19318442,Android Youtube Player Api activity finish and create,"android,api,youtube,android-activity",34,34
+3,1662253,13209386,I cannot see HTML5 EventSource event with onmessage method in Chrome,"php,javascript,html",35,35
+4,1100525,30334319,Android camera2 face detection,"android,android-camera,face-detection,face-recognition",34,34
+0,2844653,19170982,Hosting multiple clients with freemodbus,"c,tcp,embedded,modbus",35,35
+1,2174618,26415752,How to use UIAutomation on a Today extension widget?,"ios,ios8,ios-ui-automation,ios8-today-widget",35,35
+1,871985,30003704,Azure Cloud Service Diagnostic output changed with 2.6 SDK,"azure,sdk,azure-diagnostics",35,35
+2,941915,43428264,Use Ctrl+Click to Select Word in VS Code,"visual-studio,keyboard-shortcuts,visual-studio-code",36,36
+0,4314334,27242746,Successful Purchase but has Class not found when unmarshalling: com.google.android.finsky.billing.lightpurchase.PurchaseParams,"android,in-app-billing",36,36
+0,763137,32847956,External Sharepoint site's text inputs inaccessible on iPhone and iPad,"ios,asp.net,iphone,angularjs,sharepoint",35,35
+0,1396134,34319743,Excessive amount of system calls when using `threadDelay`,"multithreading,haskell,concurrency,garbage-collection,ghc",36,36
+0,2205845,52509109,Injecting Touch events to another app on Android,"android,touch",35,35
+0,444907,39694220,SecurityException: not allowed to perform OP_READ_PHONE_STATE,"android,security,android-6.0-marshmallow",36,36
+0,9359164,51788017,N+1 queries in AWS AppSync,"amazon-web-services,aws-lambda,graphql,aws-appsync",36,36
+1,10312272,52166802,"Why, when passing an array element to a function through a ParamArray, does a varpointer arrive in the function?","arrays,excel,vba,function",36,36
+2,8617507,65535611,What is the meaning of 'a: 'a in generic lifetime parameters?,"rust,lifetime",36,36
+0,2542702,56803987,memory bandwidth for many channels x86 systems,"c,x86,openmp,avx512,memory-bandwidth",36,36
+0,4949050,41825324,Implementing VPN with L2TP protocol in iOS app,"ios,swift,vpn,networkextension,l2tp",36,36
+1,2431331,16807386,Unable to do low-level decoding of video on Android 4.2 without using media extractor,"java,android,video-processing,decoding,android-mediarecorder",37,37
+1,1601297,16961521,Facebook 3.0 Android second login attempt returns “Session state closed”,"android,facebook,facebook-graph-api,facebook-android-sdk,android-facebook",37,37
+0,1467466,34114048,Why can't this higher kinded lifetime associated type trait bound be satisfied?,rust,37,37
+2,942794,45715905,Android O Replacement for getRunningServices,"android,android-service",37,37
+1,978083,26379516,SecurityException: Parcel.readException coming from google analytics code,"android,android-intent,google-analytics,google-play-services",38,38
+3,125137,171037,Company wants me to have follow up meeting with a team after Interview; what does that mean?,follow-up,3,3
+9,108103,139302,Why can't my LLC get a credit card when the owner has credit history and a good credit score?,"credit-card,banking,small-business,business",14,14
+3,107855,149305,Does the SDF format have any benefit over SMILES?,cheminformatics,8,8
+2,97843,221167,Why were the screws set in pairs in my drywall?,"drywall,walls,renovation",11,11
+0,187690,54381791,Cv-qualifications of prvalues (revisited),"c++,language-lawyer,c++17,temporary-objects,prvalue",37,37
+4,40376,31388,Artificial decomposition in Scrum,"scrum,estimation,sprint,refinement",11,11
+3,281726,557789,Temperature sensor read out is influenced by LED,"arduino,sensor,adc",3,3
+1,6006989,36151161,Eclipse on MAC OS X Does not detect LLVM toolchain,"eclipse,macos,clang",42,42
+2,413073,417927,Explanation /bin/bash -c “$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)”,"macos,command-line,bash,homebrew",4,4
+3,57742,109169,Red Herring Redherring,"word,knowledge,enigmatic-puzzle,visual,metapuzzles",29,29
+1,310553,517781,Is a spline interpolation considered to be a nonparametric model?,"nonparametric,terminology,splines,definition,interpolation",11,11
+5,133350,221111,How to get a wrench into this location to remove this nut?,"plumbing,hand-tools",14,14
+1,2823363,56626227,Getting crash in android NullPointerException in updateLocaleListFromAppContext,"android,google-play",42,42
+0,1507262,41504792,libusb: error [op_open] getcap failed in C++ on Linux,"c++,linux,raspberry-pi,libusb",42,42
+13,109386,221168,How can I get a bolt with no head out of my wall?,"repair,studs,bolts",17,17
+0,5729262,47342331,struts2 optiontransferselect retrieve and display value from database,"javascript,java,jquery,jsp,struts2",42,42
+0,863564,17657145,Troubles using WebRequest in Mono,"mono,httpwebrequest,servicestack,xsp",46,46
+0,2719350,36297815,How to setup workers for parallel processing in R using snowfall and multiple Windows nodes?,"r,windows,parallel-processing,cluster-computing,snowfall",45,45
+0,7618665,43154551,React Native app stuck on blank white screen with remote debugging using Nuclide,"debugging,react-native,nuclide-editor",46,46
+1,118562,15846742,Create a book shelf by using UICollectionView,"ios6,uicollectionview,uicollectionviewlayout",43,43
+0,457392,59118551,Where is the documentation for Microsoft.AspNetCore.SpaServices.Extensions?,"webpack,asp.net-core-mvc",45,45
+5,18749,4131662,Batch Geocoding with Garmin Mapsource,"c++,geocoding,garmin,garmin-mapsource",47,47
+0,254306,45740466,clang-format: Setting to control C++ attributes,clang-format,50,50
+0,4278282,45868645,Mayavi colorbar in TraitsUI creating blank window,"python,python-3.x,mayavi,traitsui",46,46
+4,6064621,56608171,How to make flutter app draw behind android navigation bar and make navigation bar fully transparent?,"flutter,dart,uinavigationbar,flutter-layout,transparent",51,51
+1,4291272,45172972,Getting NullPointerException at onFilterTouchEventForSecurity,"java,android,nullpointerexception",51,51
+1,47669,64554,Construction I need help clarifying in Otfried Preußler's “Krabat”,"idioms,pronouns",8,8
+2,2806855,43892897,Odroid-XU4 Android full-screen portrait orientation,"android,orientation,odroid",52,52
+0,2454790,44429327,Symfony get Asset Name in Assetic output,"php,symfony,twig,assetic",53,53
+0,1234120,35495796,AVD_loader.cpp: failed to get a service for display 4,"ios,swift,xcode,webview",52,52
+0,1024586,45875482,Inconsistent behaviour with tm_map transformation functions when using multiple cores,"r,parallel-processing,text-mining,tm,doparallel",48,48
+0,1273684,56212181,How to get the size of an input section (to place it at the end of memory),"ld,linker-scripts",53,53
+2,1749293,17310892,IOS Facebook SDK - Post Open Graph and show on Timeline without clicking Activity Log,"ios,facebook,facebook-graph-api,facebook-opengraph,facebook-ios-sdk",58,58
+1,1271435,30887312,“unknown-sdk” device when executing tests in Jenkins,"android,jenkins,spoon,spoon-gradle-plugin",53,53
+1,4958766,38714989,How can I add some clickable points in VR panorama image view in Android?,"android,google-vr,360-panorama-viewer",60,60
+0,90859,40609788,ASP.NET MVC OutputCacheAttribute with external cache providers,"asp.net,.net,caching,asp.net-mvc-5,redis",61,61
+1,4271631,45775780,How to resolve SmartFoxServer connection error in unity,"c#,unity3d,smartfoxserver",61,61
+0,1439546,40670866,Is it possible to get stack traces across async/await boundaries using --harmony_async_await in Node 7?,"javascript,node.js,async-await,v8,bluebird",60,60
+0,458384,56143587,Why is my definition not allowed because of strict positivity?,"coq,agda,type-theory",61,61
+1,3270306,48804456,How to fix: android.app.RemoteServiceException without any message (not related to Bad Notification or Broadcast),"android,crash,android-7.0-nougat,remoteserviceexception",67,67
+0,476408,29187287,Sneaking lenses and CPS past the value restriction,"ocaml,lenses,value-restriction",68,68
+1,4842758,57526699,iOS 13 - WkWebView: audio stops when in background,"swift,wkwebview,avaudiosession,ios13,ios-background-mode",70,70
+1,2573879,17601354,Creating a shadow copy using the “Backup” context in a PowerShell,"powershell,backup,wmi,shadow-copy",80,80
+1,4588760,29536499,Spring Boot embedded HornetQ cluster not forwarding messages,"java,spring,spring-boot,hornetq",82,82
+1,3109189,36285115,Can I use Cobertura on Unit Tests with PowerMock?,"android,unit-testing,robolectric,powermock,cobertura",72,72
+0,1208191,56613335,Problem setting video frame rate using AVAssetWriter/AVAssetReader,"ios,swift,macos,video,video-encoding",84,84
+1,6414477,42213153,Access Lovoo API using Python,"python-3.x,oauth,python-requests",86,86
+0,956191,45805855,ember-cli-code-coverage mocha showing 0% coverage when there are tests,"ember.js,code-coverage,ember-cli,ember-cli-code-coverage",91,91
+0,1638606,30183797,SNIReadSyncOverAsync Performance issue,".net,sql-server,ado.net",100,100
+0,161922,6779992,"Transitions with GStreamer Editing Services freezes, but works OK without transitions","video,ubuntu,video-processing,gstreamer",143,143
+0,72583,49083680,How are the new tf.contrib.summary summaries in TensorFlow evaluated?,"python,tensorflow,tensorboard",87,87
+0,1031791,42213854,What is an appropriate type for smart contracts?,"haskell,functional-programming,idris,ethereum,smartcontracts",146,146
+8,72756,199857,Can a super computer be built using time dilation?,"reality-check,relativity,time-manipulation",15,15
+0,117024,39284901,The Focus of the Default Sharing Window,"macos,cocoa,window,focus",20,20
+0,46571,30340815,Managing the lifetimes of garbage-collected objects,"garbage-collection,rust,allocation,lifetime",162,162
+0,5235385,49295984,Rendering Angular components in Handsontable Cells,"angular,typescript,dom,dynamic,handsontable",186,186
+1,3025852,43492961,Search for Place Names (City/Town) Using MKLocalSearchCompleter,"ios,swift,swift3,mapkit,mklocalsearchrequest",20,20
+1,4677958,36985943,Selenium PhantomJS Java - Refused to evaluate a string because 'unsafe-eval' is not an allowed,"java,selenium,phantomjs,jsoup",20,20
+1,1009013,32247034,Let image ManipulationMode capture pointer,"c#,win-universal-app,rendertransform",20,20
+0,2708138,31094412,Non-discrete assignments to integer variables,modelica,20,20
+1,4337272,30364047,nodejs:How to call c++ DLL function through nodejs?,"c++,node.js,dll",20,20
+0,138883,30132260,Elasticsearch wildcard query string with fuzziness,"search,elasticsearch,wildcard",20,20
+0,3712278,30831346,STGenericIntentDateRange undefined in Xcode 7 Beta,"ios,xcode,beta,xcode7",20,20
+0,5555484,33676154,Is it possible to add a signature field in a pdf document using PHP? I haven't to “digital sign” document. I only add a signature field.,"php,pdf,digital-signature",20,20
+1,1830228,25260939,SOAP Encoding is not supported,"java,soap,wsdl",20,20
+0,2554330,27234021,Does pandoc support Synctex?,"knitr,pandoc,sweave",20,20
+1,124563,30582124,StriderCD global post install fails on bower access to $HOME/.config $HOME/.cache,"node.js,npm,bower,post-install",20,20
+1,27404,23834898,Crashed: com.apple.root.default-overcommit-priority - EXC_BAD_ACCESS KERN_INVALID_ADDRESS at 0x00000008,"crash,ios7.1",20,20
+3,3570976,23282250,"eclipse (kepler): maven plugin (m2e, 1.4.0):","eclipse,maven,m2e",20,20
+0,874818,19003912,Always having to sign into Apple Game Center in simulator in iOS7?,"ios7,game-center,xcode5",20,20
+1,1523698,24468114,AWS Toolkit for Eclipse Installation fails on Eclipse Luna,"eclipse,amazon-web-services,eclipse-plugin,toolkit",20,20
+1,516969,19238359,UITableView dequeueReusableHeaderFooterViewWithIdentifier returns nil with VoiceOver on iOS 7,"uitableview,ios7,voiceover",20,20
+0,2491609,37997026,Allowing Host notification pop ups in guest Virtualbox session that is full screen,"windows,ubuntu,popup,virtualbox",21,21
+1,403,243919,Easily download SE posts as notebooks?,"import,web-access,http-functions",9,9
+0,7809145,51356404,Generated system.img not running on emulator,"java,android,linux,android-emulator,android-source",19,19
+0,6518644,50938106,Android Chrome browser address bar shifts fixed element hitareas,"javascript,html,css,google-chrome,android-chrome",19,19
+0,550471,51135869,IllegalArgumentException: reportSizeConfigurations: ActivityRecord not found for: Token,android,19,19
+3,5709472,51390284,Equivalent of Ihostedservice in asp.net framework for background tasks,"c#,multithreading,rest,windows-services,microservices",19,19
+0,10032031,51184420,Safari losing hash params on http redirection,"redirect,safari,webkit,url-redirection,http-redirect",19,19
+2,1173451,50948136,TDD in Flutter/Dart. How to reduce start up time,"unit-testing,dart,tdd,flutter",19,19
+0,949962,51634812,Watch Connectivity throwing NSFileReadNoSuchFileError -> ENOENT,"xcode,watch,connectivity,watchos",19,19
+0,419449,18618075,ObjectAnimator onAnimationEnd listener is called before the animation finishes,"android,animation,android-fragments,android-asynctask,objectanimator",20,20
+2,49646,165773,What is the meaning of “person specification” in a job advert?,"mathematics,postdocs,application-cover-letter,research-statement",4,4
+0,8544458,51126014,"Why does tmap render 80 times faster than ggplot2? [Plotting shapefiles in R with ggplot2::geom_sf(), using XQuartz/X11 graphics device on macOS]","r,ggplot2,sf,xquartz",19,19
+0,1891230,51825799,Known reasons why sqlite3_open_v2 can take over 60s on windows?,"sqlite,poco",19,19
+0,8199772,52036704,Handle MediaCodec video with dropped frames,"android,android-mediacodec",19,19
+5,1547378,52185294,Crashlytics found an invalid API key: null. after updated com.google.gms:google-services:4.1.0,"android,firebase-crash-reporting,android-studio-3.3",19,19
+0,1370081,52569141,React Native pseudo leaking memory after remove elements from screen (ios),"react-native,memory-leaks",19,19
+20,557,222596,Trim elements from the ends of a list,"code-golf,array-manipulation",14,14
+1,2606238,52327763,JobScheduler JobService is started without Application,"android,kotlin,android-service,android-jobscheduler,koin",19,19
+0,3158329,52088355,FluentMySQL connection using Unix Socket,"mysql,swift,vapor",19,19
+0,2978652,53072966,How to debug Fable using Visual Studio (not Code),"visual-studio,debugging,f#,visual-studio-debugging,fable-f#",19,19
+13,87227,165743,What to do with students requesting deadline extension due to the death of a relative (but without a doctor's note)?,"academic-life,students,teaching-assistant,health,course-design",25,25
+1,5895830,52342466,Implement @mention in TextInput,"react-native,textinput,mention",19,19
+1,10486204,52747900,visual studio code add corresponding import statements for snippets,"import,visual-studio-code,vscode-snippets",19,19
+2,4178170,53147396,What is the difference between the two Google JS clients: platform.js vs api.js?,"javascript,oauth-2.0,google-oauth",19,19
+0,8107230,54732688,expo.io's BackgroundFetch is not running the defined task,"ios,react-native,expo,background-fetch",19,19
+1,849354,53415317,Pylinter in Sublime text 3.1.1 still doesn't use Python2.7,"python,sublimetext3,pylint",19,19
+4,10088886,54716633,How can I bundle the JAXB runtime libraries with OpenJDK 11?,"java,module,jaxb,java-11,java-module",19,19
+1,3244110,53493550,Postman - Option to view compressed response size..?,"spring,rest,postman",19,19
+1,4153589,52965886,LocationSettingsRequest returns 0 to onActivityResult even if ok is clicked,"android,google-play-services,android-support-library,android-location,onactivityresult",19,19
+0,11228262,55247986,Only allow one instance when navigate with NavController,"android,android-architecture-navigation",19,19
+0,10377366,55309072,"BoringSSL nw_protocol_boringssl_get_output_frames … get output frames failed, state 8196 log confusion","ios,objective-c,ssl,boringssl",19,19
+0,1159507,55948003,Android Studio 3.4 dependencies suggestions - make it to not show alpha/beta versions,"android,android-studio",19,19
+0,239923,57557514,R: checking for non-standard things in the check directory … NOTE Found the following files/directories,"r,devtools",19,19
+16,83109,199775,What could prevent my world from progressing past the early industrial age?,"medieval,renaissance,industrial-age",6,6
+8,38153,163140,Usage of cash in Europe during COVID,"europe,money,covid-19",6,6
+0,228179,32596771,Jitsi Videobridge Negotiation,"rest,webrtc,jitsi",19,19
+1,159685,50558425,Emails/drafts sent via Gmail REST API can't be opened in the new Gmail UI,"gmail,gmail-api",19,19
+1,839233,33689689,Crash inside GoogleSignInAccount in latest PlayServices 8.3,"android,google-play-services,google-signin,googlesigninaccount",19,19
+7,214898,557501,Is it possible to generate light with an antenna?,"antenna,electromagnetism,light,electromagnetic,optoelectronics",20,20
+0,439130,34885380,What happen to SketchFlow and what we should use instead?,"visual-studio,sketchflow",19,19
+2,32197,38682,Can you rhyme words in sign language?,"sign-languages,poetry,rhyming",19,19
+0,2508087,32774422,Xcode source control view history modified files fail,"xcode,svn,version-control",19,19
+1,417145,35424417,"Unknown type name 'AFNetworkReachabilityStatus', RestKit suddenly stop working","ios,swift,afnetworking,restkit",19,19
+0,1620081,35040759,Youtube API: difference between videoSyndicated and videoEmbeddable,"youtube,youtube-api",19,19
+2,2318240,36088020,Keep react-router routed-components for all history states,"reactjs,react-router,reactcsstransitiongroup",19,19
+1,4244511,36138894,Slack - how to post a link to network folder?,"slack-api,slack",19,19
+0,2489797,36891958,Turn off app permissions programmatically,"android,android-6.0-marshmallow,android-permissions",19,19
+0,6238779,38089036,Fatal Exception: org.apache.http.impl.conn.SingleClientConnManager.finalize() timed out after 10 seconds,"java,android,apache",19,19
+3,692580,38791394,Hibernate @SQLDelete sql not adding schema,"java,sql,hibernate,schema,abstract",19,19
+1,4773644,31508885,Why transferred bytes are bigger than size bytes in firefox dev tools?,"firefox-developer-tools,firefox-developer-edition",19,19
+2,632516,38731341,Testing endless scrolling RecyclerView with Espresso and RxJava,"android,automated-tests,rx-java,android-espresso,ui-testing",19,19
+0,218725,39039335,Cordova - check_reqs module is missing for platform. Skipping it,"android,cordova,ubuntu,windows-10",19,19
+0,4298143,37222527,Android: Loading Custom Midi Instruments DLS files into Sonivox EAS,"android,audio,midi",19,19
+2,391465,39541939,Android cookie manager - How to get all cookies,"android,cookies,android-cookiemanager",19,19
+1,6819817,39438962,How can I serialize a jgrapht simple graph to json?,"java,json,serialization,jgrapht",19,19
+0,1418981,39356873,Swift 3: atomic_compare_exchange_strong,"swift,atomic",19,19
+1,6463558,40078688,"webpack `publicPath`, `path` and webpack-dev-server `contentBase` relationship?",webpack,19,19
+1,102176,245304,80s film where a group of kids are stuck in a orbiting space shuttle and receive advice from a female astronaut,story-identification,16,16
+1,8111,19470,What was the 1 MHz bus used for on the BBC micro series?,"bbc-micro,ports",7,7
+1,6041704,40111482,React Native - good practice: SegmentedControlIOS with ListView,"javascript,ios,listview,react-native,segmentedcontrol",19,19
+1,442351,40665471,Release and target name is 'null' in AVD Manager,"android,avd",19,19
+0,4746977,41685518,Any way automatically allow the MTP connection approval request upon USB connection?,"android,android-studio,mtp",19,19
+0,1225334,55757805,Add Xcode Developer Account from the Command Line,"ios,command-line,provisioning-profile,xcodebuild",18,18
+0,-1,58142909,Required client entitlement required?,"ios,wkwebview,entitlements",18,18
+2,2838491,19816278,Renaming groupId in maven,"java,maven,refactoring",19,19
+2,695411,10077821,Unable to reproduce TypeError: 'undefined' is not an object,"javascript,jquery,iphone,safari",19,19
+1,1646479,27445438,Jack and Jill and destinationDir,android-jack-and-jill,19,19
+1,3443786,26765713,Bluetooth permission is missing - but my app doesn't use it,"android,permissions,bluetooth,logcat",19,19
+0,191246,61109400,Wireguard: how to log network activity?,"logging,vpn,wireguard",18,18
+0,13456180,63837100,alignof(T) with T=__m512 is not equal to alignof(__m512),"c++,clang++",18,18
+2,72987,34486213,Kubernetes Autoscaling not recognizing Heapster,kubernetes,19,19
+2,3968744,37683703,How to disable Ctrl-Click in VS Code,"visual-studio-code,key-bindings",19,19
+1,2281790,41672693,MySQL Entity Framework 6: Database First. How to create classes?,"mysql,entity-framework,ef-database-first",19,19
+1,2522405,40817465,Is it possible to set the color scheme of SwipeRefreshLayout in XML?,"java,android,xml,swiperefreshlayout",19,19
+2,4894385,38120279,Some Excel Files not moving from Shared Path to SQL Server,"c#,sql-server,excel,windows-services",19,19
+0,1578927,57871677,iOS 13 - silent push notifications are no longer reliable,"ios,push-notification,apple-push-notifications,ios13",19,19
+1,2617546,46034533,Difference behaviour of didReceiveRemoteNotification between APNS production and development environment,"ios,push-notification,apple-push-notifications,remote-notifications",19,19
+1,1188193,30045584,How to get refresh token for google plus in android?,"android,google-plus",19,19
+3,776237,58845595,Using std::map should be deterministic or not?,"c++,stl,visual-studio-2019,icc",19,19
+1,6863818,64073351,"“Spotlight quit unexpectedly” in MacOS Catalina version 10.15.4, This crash happening after I have installed Xcode 12","macos,ios14,xcode12",19,19
+2,8785313,46774474,GraphQL union and conflicting types,"javascript,graphql,apollo",19,19
+1,620184,5051549,How to create simple music visualizer of an iPhone app?,"iphone,objective-c,audio,rendering",19,19
+1,10341926,57932560,Failed to execute 'postMessage' on 'DOMWindow' using Stripe Payment Module,"angular,stripe-payments",17,17
+0,216575,5717876,Range query on kyoto cabinet using Java API,"key-value-store,kyotocabinet",19,19
+1,5629392,58183930,ios13 tls certificates issue - connection error,"swift,amazon-web-services,tls1.2,ios13,aws-certificate-manager",17,17
+2,8404417,46618118,WEB-INF/lib directory vs. Java 9 modules,"java,tomcat,jakarta-ee,java-9",19,19
+0,3807380,58750471,Why does my Podspec throws multiple: “Execution policy exception registration failed and was skipped” notes?,"ios,xcode,cocoapods,xcodebuild,podspec",17,17
+0,242885,57683872,How to stop AndroidStudio from overwriting .idea/codeStyles/Project.xml,"android-studio,android-studio-3.5",17,17
+1,1932751,58990498,New package.json `exports` field not working with TypeScript,"node.js,typescript",17,17
+0,1477667,60621991,How can (<*) be implemented optimally for sequences?,"haskell,data-structures,applicative,finger-tree",17,17
+1,1098827,58783442,Deploying Spark and HDFS on Docker Swarm doesn't enable data locality,"docker,apache-spark,hadoop,hdfs,docker-swarm",17,17
+1,1439522,48360769,Listen for user changed event (multi user device),"android,broadcastreceiver",18,18
+7,56243,13764330,Selection is not possible when UICollectionView is nested in UITableVIew,"ios,objective-c,uitableview,ios6,uicollectionview",18,18
+4,244594,41445222,Swagger + Spring security - Hide methods based on roles,"java,spring-security,swagger,spring-rest,springfox",18,18
+0,6761823,61341781,Gradle build in Docker container taking up too much memory,"java,android,docker,kotlin,gradle",17,17
+1,14452770,64363915,UITextField throwing all kinds of errors in iOS 14,"ios,swift",17,17
+0,1355909,65642725,google dataflow job cost optimization,"python,protocol-buffers,google-cloud-dataflow,apache-beam,avro",17,17
+2,10257494,52336858,Cannot access Vue project by IP address on other devices vue cli 3 npm,"npm,vuejs2,localserver,vue-cli-3",18,18
+2,4977831,36943664,Is there UI to manage ASP.NET Identity users/roles compatible with ASP.NET 5?,"asp.net,asp.net-core-mvc,asp.net-identity-3",18,18
+1,24984,121443,"If God removed prophecy from the gentiles because of Bilaam's wickedness, how come that Obadiah who was a gentile was a prophet?","talmud-gemara,gentiles,torah-study,midrash,bilam",1,1
+1,675862,9776516,Play pre-recorded audio into a voice call,"android,android-ndk",18,18
+1,16287,39401089,How can I make doxygen create full inheritance diagrams across multiple projects?,"c++,oop,inheritance,doxygen",18,18
+0,11759265,56951793,C# and SIMD: High and low speedups. What is happening?,"c#,performance,x86-64,simd,avx",17,17
+2,5610406,39089901,Firebase getRedirectResult is being called after logout,"javascript,firebase,vue.js,firebase-authentication,vue-router",17,17
+0,1656654,39355081,"JavaFx Css, 'Not' selector",javafx-css,17,17
+5,1547199,21667583,ASP.NET Web Forms 4.5 model binding where the model contains a collection,"asp.net,webforms,model-binding",18,18
+0,1182899,40271418,React native notification with custom template for Android,"android,push-notification,react-native",17,17
+0,3176495,40528480,"How to include zone.js, reflect-metadata etc. in Systemjs builder task?","javascript,angular,systemjs,systemjs-builder",17,17
+1,968848,41057710,How To Apply .MTL File on .OBJ 3d Model via SceneKit & Model I/O,"ios,swift,3d,scenekit,modelio",17,17
+0,546016,40029231,smb authentication (74 bytes vs 24?),"java,smb",17,17
+1,2052963,40625354,Server Side Rendering Angular 2 in ASP.NET with Edge.js,"asp.net-mvc,angular,edge.js,angular-universal",17,17
+1,251589,41126177,PlantUml - Set max width without constraining height,"uml,plantuml",17,17
+3,995229,40072140,Twilio iOS SDK fails with “400 Bad request” on outgoing call,"ios,swift,twilio",17,17
+0,4229796,41824456,Show Today in Agenda View even there is no event attached with “No event Created”,"java,android,android-calendar",17,17
+1,180663,42016317,Imported variable works but is not defined when accessed in debugger (within same scope),"javascript,ecmascript-6,es6-module-loader",17,17
+1,6748242,42133734,Host: localhost. is not in the cert's altnames,"node.js,reactjs,ssl-certificate,graphql,react-apollo",17,17
+0,1040736,41617645,Google Recaptcha javascript loading multiple times,"javascript,recaptcha",17,17
+1,6517589,41843329,Google maps beam to show user directions/heading in android MapFragment,"android,google-maps,location",17,17
+1,4625005,41313565,hiding of template parameter of member template,"c++,templates,standards,name-lookup",17,17
+2,3143657,41670590,“Template parse errors: 'app' is not a known element” when an 'OK' angular2 app is built with Webpack2 and deployed,"angular,webpack,angular2-template,webpack-2",17,17
+1,470769,42541310,Override DND on a channel?,slack-api,17,17
+0,6124487,41718710,Android dealing with IoT devices with NO Internet connection,"java,android,sockets,wifi,iot",17,17
+2,38190,389060,Colimits of residually finite groups,gr.group-theory,3,3
+0,6657330,38674497,Increase the expiry period of reset password link in firebase 3,"firebase,firebase-authentication",17,17
+0,3471244,22704548,Can I setup IVR on my Android phone?,"android,ivr,dtmf",17,17
+0,1342579,22715285,"New Google Play Services API, Holding connection through activities","java,android,google-play-services",17,17
+1,240864,22821345,Samsung Multiwindow crash,"android,android-4.4-kitkat,samsung-mobile,samsung-mobile-sdk,samsung-touchwiz",17,17
+3,673608,24599084,Mailchimp's $mcj = jQuery.noConflict(true) causing conflict,"jquery,mailchimp",17,17
+0,3697230,23983271,emulator: ERROR: camera_device_start_capturing: Device 'AndroidEmulatorVC0' is unable to save frame to the clipboard,"android,android-emulator,camera,android-camera,emulation",17,17
+0,3291140,26335794,What is the reason of designing an onAnimationCancel() in Animator.AnimatorListener?,"android,animation",17,17
+2,338248,26103315,Not able to view video in Android Web View,"android,android-webview,android-mediaplayer",17,17
+0,1229040,27314011,mcfork in Rstudio,"r,rstudio",17,17
+1,1085586,24011527,Maven shade plugin Packaging DLL,"java,maven,dll",17,17
+1,4407096,27715237,Scene Kit Performance with cube test,"swift,performance,optimization,3d,scenekit",17,17
+1,351400,27051034,Using Optaplanner to solve VRPTWPD,"java,drools,optaplanner",17,17
+0,1554860,28203175,Visual Studio Intellisense issue: Unknown CSS class 'some-class',"visual-studio-2013,less,intellisense,web-essentials",17,17
+1,1993909,27466072,Crosswalk Cordova - js alert shows block characters on Chinese interface android,"android,cordova,android-alertdialog,crosswalk-runtime",17,17
+0,2361947,27060217,Webcal / .ics subscribe to feed from within Android App,"android,calendar,feed,icalendar,subscribe",17,17
+3,108099,139320,"Why a bank would propose a depositor to invest part of their money to mutual funds, instead of bank doing it itself?","investing,mutual-funds,bank-account,deposits,greece",8,8
+0,3985487,26463592,Unity Camera Patch,"android,unity3d,shader,vuforia",17,17
+4,3148695,29816189,Array-to-CSV-export function is facing an issue in WordPress-plugin,"php,arrays,wordpress,csv",17,17
+1,857303,28843123,How can Android broadcast BLE local name like in iOS?,"android,ios,bluetooth,broadcast,discovery",17,17
+0,2470141,30866693,Memory leak with Mongo Java Connection,"java,mongodb,memory-leaks",17,17
+1,2421481,30591302,Gmail API Watch not filtering by Label,gmail-api,17,17
+0,5036896,55172557,Office js Web Addin failing to ExpandDL with soap call,"exchangewebservices,office-js,outlook-web-addins,outlook-for-mac",16,16
+0,84916,55083502,Flask unable to read Authorization header on ElasticBeanstalk,"python-3.x,amazon-web-services,wsgi,amazon-elastic-beanstalk,flask-peewee",16,16
+1,152436,55680121,How to represent mapping between two trees in Haskell?,"algorithm,haskell,tree,mapping,abstract-syntax-tree",16,16
+0,4264972,54868545,How can i get the caller phone number on android PIE without using read call log permission?,"android,android-permissions,android-9.0-pie",16,16
+0,100077,30060284,How to properly index Sitecore 7 content in Solr with partial language fallback?,"solr,sitecore,sitecore7,sitecore7.5",17,17
+2,4532985,58540821,How to make framework in CocoaPods that has multiple targets?,"ios,swift,cocoapods,carthage,swift-package-manager",16,16
+0,4400060,57758951,What are freer monads?,"haskell,functional-programming,monads",16,16
+1,2713455,63830860,App and website saved password is not sync,"android,google-chrome,google-identity,google-smartlockpasswords",16,16
+2,513267,9484009,Callback when the options menu creation is complete,"android,options-menu",17,17
+0,2041996,57891144,ApplePay error `Connection to remote alert view service failed` on iOS 13,"swift,xcode,ios13,applepay,passkit",16,16
+1,3776197,57282243,flutter provider MultiProvider using StreamProvider,"flutter,dart,stream,provider,flutter-provider",16,16
+1,8654503,59664035,Does react-native support Multithreading and Background threading or Parallel Execution? How can we do that?,"multithreading,react-native,ui-thread,background-thread",16,16
+0,8555967,60164823,Kotlin compatibility with JavaFXPorts,"android,gradle,kotlin,javafx-8,javafxports",16,16
+2,506084,26334129,Android Activity Title vs ActionBar Title,"android,android-activity,android-actionbar,title",17,17
+2,6784979,45088790,Why are C# references added differently between NuGet and Visual Studio,"c#,reference,nuget",17,17
+2,1402616,44969577,Support v7 MenuPopupHelper is now hidden and restricted to LIBRARY_GROUP,"android,android-appcompat,lint",17,17
+2,7165581,43816604,JSDoc Tag Support for React HOC (Higher-Order Component),"reactjs,jsdoc3",17,17
+1,1684508,37953826,UIActivityViewController unable to set subject when sharing to Gmail app,"ios,ios9,uiactivityviewcontroller",17,17
+3,3870082,31681139,C# - Getting Exception messages in English when the application is in another language?,"c#,.net,exception,localization,resourcedictionary",17,17
+1,2553418,36129133,Most performant way to transform/move large number of DOM elements,"javascript,jquery,html,css,angularjs",17,17
+1,2254532,16278990,Get in-app billing user account details,"android,billing,in-app",17,17
+0,1650907,44888785,How to set webpackChunkName for import() globally?,"javascript,webpack,webpack-3",16,16
+0,8555794,46027329,Firebase Auth across multiple projects with different Providers,"firebase,firebase-authentication",16,16
+1,-1,44717999,Cross Origin in ajax not working for .properties file in IOS (10.3.1),"javascript,jquery,ios,ajax,ios10.3",16,16
+2,8485246,45763061,Error building Ionic app: Failed to execute aapt (CordovaLib:processDebugResources),"android,linux,cordova,gradle,ionic-framework",16,16
+0,4507583,45525813,Facenet online triplet generation,"machine-learning,neural-network,conv-neural-network",16,16
+1,2315280,46050864,Firebase Cloud Functions Error: connect ECONNREFUSED,"node.js,firebase,google-cloud-functions,kik",16,16
+0,1888292,46377151,How to customize the color of custom syntax tokens in VSCode extension,"visual-studio-code,syntax-highlighting,vscode-extensions,vscode-settings",16,16
+0,2184930,46417066,react native console.debug does not show log using log-ios,"react-native,react-native-ios",16,16
+0,3525259,46773444,Chrome Dev tools - Is there a way to persist the filter in Chrome Dev Tools?,"filter,google-chrome-devtools",16,16
+1,3221356,46552049,MacOS Safari 11 “prevent cross-site tracking” breaks google sign-in for websites,"safari,google-oauth,google-signin",16,16
+1,1213364,47052154,How to convert .movpkg to mp4,"ios,objective-c,swift,http-live-streaming",16,16
+1,1483178,46948624,Instant Apps with NFC,"android,nfc,deep-linking,branch.io,android-instant-apps",16,16
+1,7922336,47412306,"How to use gcc from anaconda? When I compile files, it complains about not finding system headers like stdio.h","anaconda,conda,miniconda",16,16
+0,3928705,47498262,SecurityException: Calling from not trusted UID,"android,uid",16,16
+0,2699001,47493760,Grunt URL rewrite in Angular application on page reload,"javascript,angular,gruntjs,legacy",16,16
+0,1608276,48236700,Why not always use Inf instead of Lazy in Idris?,"lazy-evaluation,idris,codata",16,16
+1,2397068,34926991,Debugging ES6 import statements with React Native in Chrome,"javascript,google-chrome,debugging,ecmascript-6,react-native",16,16
+8,20830,44533,Logic of Emptiness still unconvincing. Please help explain,"mahayana,sunyata,shunyata",5,5
+0,1452174,48220944,Thumbnail Metadata Disappeared When Importing File with Copy to App,"ios,url,metadata,thumbnails,uidocument",16,16
+0,1490077,35696067,How to set HttpOnly and Secure flags on GA cookies which managed by Google Tag Manager?,"cookies,httponly",16,16
+2,5974354,35604487,Issue around utc date - TimeZoneInfo.ConvertTimeToUtc results in date change,"c#,datetime,timezone,utc",16,16
+1,214676,35055541,SimpleSAMLphp State Information getting lost,"php,saml,simplesamlphp",16,16
+0,2797154,35727985,Android TaskStackBuilder startActivities opens a white screen and freezes sometimes on Samsung Galaxy S3,"android,android-intent,android-navigation,taskstackbuilder",16,16
+0,3357313,48268088,"Ble with MVVM and Architecture Components, proper way?","android,mvvm,bluetooth-lowenergy",16,16
+0,6314638,37136183,"Graphviz, dot, ortho plots do not respect ports","html,graphviz,dot,edges,orthogonal",16,16
+0,813216,36752434,Mocking file input in React TestUtils,"unit-testing,reactjs,mocha.js,fs,reactjs-testutils",16,16
+2,3556382,36172392,Facebook SDK error during login attempt: No URL set,"php,curl,facebook-php-sdk",16,16
+2,5982311,37381910,Firebase DB Update from Background Service,"android,firebase,firebase-realtime-database",16,16
+0,944412,36125504,tileMode repeat with vector drawable,"android,android-vectordrawable",16,16
+0,1180930,36317743,How to call UMFPACK as MATLAB does?,"matlab,fortran,sparse-matrix,numerical-methods,suitesparse",16,16
+0,5138698,36428350,NotificationListenerService onNotificationPosted() called multiple times for single Notification when it is part of grouped notification,"android,android-notifications",16,16
+0,5292173,37673344,Android Support Annotation “should have @Retention(RetentionPolicy.SOURCE)”,"java,android,android-annotations",16,16
+1,6187000,36542815,Mono.AndroidTools.AdbException: No such file or directory,xamarin.android,16,16
+0,2188122,38718858,"JPGraph 4 & 3.5 - When a line appears atop a barplot graph, it is rendered twice in slightly different positions. Why?","php,jpgraph",16,16
+0,313717,38768913,Android Auto Google Play Rejection,"android,android-auto",16,16
+1,5783753,38848345,"Highchart: in bar chart, how to increment a bar according to data?","javascript,jquery,highcharts",16,16
+2,4044986,38451753,Post JSON ajax request with cors not working in IE10/Edge,"jquery,ajax,wcf,cors,iis-7.5",16,16
+1,877383,37722531,How to retrieve google place details for multiple places (placeids),"google-maps,google-places-api",16,16
+1,6557164,38458979,What's an xUnit runsettings equivalent?,xunit,16,16
+2,1286667,10859567,Unexpected results implementing simple motion blur in Libgdx,"java,android,opengl-es,libgdx",16,16
+1,690045,12399891,URL Scheme to Trigger Calendar Client,"android,calendar,google-calendar-api,icalendar,url-scheme",16,16
+1,1865613,38974314,Load and save layout of anchorables - Binding of Visibility,"c#,wpf,mvvm,avalondock,xceed",16,16
+1,1405412,12967833,Is it possible to do Data Driven Testing using SAPb1 Testcomposer?,sapb1,16,16
+1,1334817,10823805,Android unit test for camera preview?,"android,unit-testing,opencv,camera,mocking",16,16
+2,1616161,12825369,ContentControl Rotate decorator rendering,"c#,.net,wpf",16,16
+1,1907033,13897050,Android AnalogClock : setting drawables programmatically,"java,android,xml,widget,clock",16,16
+0,771435,16350572,A lot of NPE of DeviceMotionService happen recently,"android,webkit,android-webview",16,16
+6,2032580,14646917,CSV Downloaded To Chrome - Error: MIME Type text/csv,"php,google-chrome,csv,mime-types",16,16
+1,1336543,11705660,Anchor Android Dialog to a View,"android,dialog",16,16
+1,383676,15296902,Is it possible to always show the action bar when using adjustPan as soft input mode?,"android,android-layout,android-actionbar,android-softkeyboard,android-windowmanager",16,16
+1,2489210,17126019,"Android Webview, Setting Long Click enabled on links exclusively?","java,android,webview",16,16
+0,727158,18204093,Ant+ iphone adapter configure for any sensor,"ios,objective-c,iphone",16,16
+0,1681681,21578412,How to `\link{}` to a specific section of and Rd file with Roxygen2?,"r,roxygen2,roxygen",16,16
+2,1249923,21183509,How to set a custom header in Google Cloud Endpoints Javascript Client?,"javascript,google-api,google-cloud-endpoints",16,16
+0,5214654,63036996,How to get WebRTC logs on Safari Browser,"ios,safari,webkit,webrtc,mobile-safari",15,15
+1,7661706,62855700,How to update the text of all EditTexts elements in a RecyclerView with two-way data binding,"android,kotlin,android-recyclerview,android-edittext,two-way-binding",15,15
+2,2876951,19351856,iOS CoreBluetooth / iBeacon: Advertise an iBeacon and a peripheral service concurrently,"iphone,core-bluetooth,bluetooth-lowenergy,ibeacon",16,16
+0,1911070,64862562,Updated to Mac OS Big Sur and getting “Warning: Expected min height of view” errors in R,"r,macos,macos-big-sur",15,15
+0,11638718,66624969,Parameter pack expansion with lambda in C++20,"c++,lambda,language-lawyer,variadic-templates,c++20",15,15
+5,13930,3016767,Tomcat reporting 404 error on all of newly deployed WAR files?,"java,tomcat,http-status-code-404,war",16,16
+4,1595783,22346408,AngularJS Sends OPTIONS request instead of POST,"angularjs,post,amazon-s3,httprequest",16,16
+2,555153,9165194,Android 4.0 org.apache.http.conn.ConnectTimeoutException: Connect to … timed out,"android,timeout,android-4.0-ice-cream-sandwich",16,16
+4,687174,10295502,How to verify a iTunes Store receipt for in-app purchase,"ios,in-app-purchase,itunes-store",16,16
+2,605129,18731776,Duplicate files during packaging of an APK,"android,jar,gradle,android-studio",16,16
+1,1924443,34449977,How to get the Image URL of rct-image-store to upload image through api,react-native,16,16
+5,5600448,39030702,No EAAccessoryDidConnectNotification and EAAccessoryDidDisconnectNotification after connecting Lightning kBD or Smart KBD,"ios,objective-c,nsnotificationcenter,external-accessory",16,16
+3,3682372,36277700,Delete system cache on android 6.0,android,16,16
+1,1420941,60290892,Safari - CORS OPTIONS preflight requests not showing in dev tools,"safari,cors,preflight,safari-web-inspector",16,16
+1,4117081,30636845,Function list on main page with doxygen,"c,documentation,doxygen",16,16
+1,1150923,16224533,How do you change/customize the keyboard shortcut for Chrome Developer Tools?,"google-chrome,keyboard-shortcuts,google-chrome-devtools",16,16
+1,2272004,27911758,Use Twirl with Spring MVC,"java,spring,spring-mvc,playframework,twirl",16,16
+2,471468,31579565,Html2Canvas problems with thai language,"javascript,jquery,screenshot,html2canvas",16,16
+1,5854030,35071577,Are Session Fixation Attacks in MVC 5 still an issue,"asp.net-mvc,security,session,cookies,asp.net-mvc-5",16,16
+4,24874,1679391,How to combine DataTrigger and EventTrigger?,".net,wpf,xaml,triggers,datatrigger",16,16
+1,3859456,45757822,How can I use ComponentRef to destroy my Component from within?,angular,15,15
+1,919426,45861604,ASP.Net Core 1 Logging Error - The description for Event ID xxxx from source Application cannot be found,"c#,asp.net-core,event-log",15,15
+0,5479131,46378543,ERROR gl_surface_egl.cc(263)] eglChooseConfig failed with error EGL_BAD_ATTRIBUTE,android,15,15
+0,5318737,46410070,PredectionIO via vagrant : pio-start-all: command not found,"linux,predictionio",15,15
+2,993919,39313688,AVfoundation blur background in Video,"ios,video,avfoundation,video-editing",16,16
+0,1688321,46678507,How to disable bracket balancing in Xcode9,xcode,15,15
+0,1390035,46514830,Crashlytics asks for dSYMs with UUIDs that don't match my app,"ios,xcode,app-store-connect,crashlytics,google-fabric",15,15
+1,6643616,47080343,How to plot interaction effects from extremely large data sets (esp. from rxGlm output),"r,glm,microsoft-r",15,15
+0,1413066,46713880,Spark executors crash due to netty memory leak,"out-of-memory,netty,spark-streaming,apache-spark-2.0",15,15
+0,1345244,47290741,What service is behind the referrer “android.clients.google.com”?,"android,amazon-cloudfront,referrer",15,15
+0,852499,47517954,An exception occurs during Evaluate Expression Action :,"android,kotlin,android-studio-3.0",15,15
+1,1452174,46826381,Unified Logging: App’s Info / Debug Messages Never Show Up In Logarchive File,"ios,xcode,logging,console,unified-log",15,15
+2,4652412,48089172,Android Media Controller stuck at a position when scrolled in list view?,"android,android-recyclerview,android-videoview",15,15
+0,4779612,48420309,Windows: Disabling CPU idle C-states from kernel-mode driver,"c,windows,device-driver,cpu-speed",15,15
+0,1332416,49162127,"How to include native assets in Nuget on multiple platforms, only 64-bit",".net,nuget,.net-standard",15,15
+2,4883341,49815982,Issues in AR App built in Unity using Vuforia SDK,"ios,iphone,unity3d,vuforia",15,15
+0,5696585,48476872,“malformed calls from JS field sizes are different” error on Android - react-native,"android,react-native,picker,native-base",15,15
+2,9394476,49109252,Does Device admin deprecation means that we will no longer be able to disable camera?,"android,android-camera",15,15
+1,3451639,48735268,Unable to run parameterized tests with Android Test Orchestrator,"android,junit,kotlin,android-espresso",15,15
+0,1139856,36865610,How to preserve aspect ratio of VectorDrawable?,"android,android-vectordrawable",15,15
+0,412352,49514163,Opening ICS file with multiple events creates new calendar in Outlook,"outlook,icalendar",15,15
+0,4642530,37221419,In Safari's “Responsive Design Mode” can you hide all of the device options on top for more screen real estate?,"browser,responsive-design,safari",15,15
+0,5434743,37097285,What causes Error -25204 getting snapshot for element during iOS app UI test,"ios,user-interface,testing,snapshot",15,15
+1,2873262,37323806,Get Google Chrome version in ARC app,"android,google-chrome-arc",15,15
+0,964823,36855336,alembic generation of materialized view,"flask,sqlalchemy,flask-sqlalchemy,alembic",15,15
+1,1056563,37797465,Native library lz4 not available for Spark,"macos,apache-spark",15,15
+1,2486846,37731031,New Firebase 9 Android sdk gives “Invalid Idp response” after some time,"android,sdk,firebase",15,15
+1,1129332,37641013,Generating and installing SSL certificates,"android,ssl,https,android-emulator",15,15
+0,1959596,37951665,Google Sign-In gives error when swiching to secondary Youtube accounts,"google-api,youtube-api,google-signin,google-oauth,google-api-js-client",15,15
+0,2206688,37854169,Admob native ads: Invalid NativeAdManager type. Found: qa; Required: NativeAdManager,"android,admob",15,15
+1,514156,38081708,Should I use add_subdirectory or find_package?,cmake,15,15
+3,2968968,38773248,Secondary Sort in Hadoop,"java,hadoop,mapreduce,hadoop2,hadoop-partitioning",15,15
+0,3767693,38123265,UWP authenticode signed appxbundle shows unknown publisher with smartscreen,"uwp,windows-10-universal,signing,appx",15,15
+1,535871,38911683,Is there a way to fall back to Typeface.SERIF in a StaticLayout?,"android,android-typeface,android-paint",15,15
+0,1845953,38224809,ffmpeg seeking in HLS m3u8 video,"video,ffmpeg",15,15
+2,2225572,39038660,jboss-deployment-structure.xml add JAXP exclusion,"java,xml,spring,jboss,jaxp",15,15
+0,6733717,39033334,How to resolve the Crosswalk SSL Certificate Error,"cordova,ssl,crosswalk",15,15
+0,3860983,39211146,Android MIDI Threading InteruptedException - Aftertouch Messages,"java,android,multithreading,midi,interrupted-exception",15,15
+2,6766254,39189159,RecyclerView Swipe with a view below not detecting click,"android,android-recyclerview",15,15
+1,6159633,39594576,<FIRMessaging/WARNING> FIRMessaging registration is not ready with auth credentials,"ios,objective-c,firebase,firebase-authentication,firebase-cloud-messaging",15,15
+0,4671149,39656941,How to disable the sheet asking “Do you want to move the installer to the Trash?” after installation is complete,"operating-system,installation,macos-sierra,pkgbuild,productbuild",15,15
+1,6104460,39300607,Using VLC player activex within excel vba as a registration-free COM,"excel,vba,vlc",15,15
+0,620053,39484116,How to map Frame coordinates to Overlay in vision,"android,camera,drawing,screen-rotation,android-vision",15,15
+0,1318622,39247243,Yeoman - How to extract zipped files in generator?,"yeoman,yeoman-generator",15,15
+0,4073953,26013444,SpeechRecognizer on Android Wear,"android,speech-recognition,speech-to-text,wear-os",15,15
+1,1415913,26656192,TCP Retransmit and TCPCopy when using loopback device on Windows 7,"windows,sockets,tcp",15,15
+0,128217,27133043,Accessing performance counters through a cluster,"performance,msmq,windows-clustering",15,15
+2,1006572,27165549,intellij idea specify repository for downloading sources,"maven,intellij-idea",15,15
+0,1649472,27447117,IndexOutOfBoundsException on Samsung devices,"android,indexoutofboundsexception,samsung-mobile",15,15
+0,2037269,27605693,Android Studio 1.0 'runProguard' vs 'minifyEnabled',"android,android-studio,synchronization,proguard",15,15
+1,1442620,27692868,Configuring @IBInspectable Attribute Inspector controls,"ios,xcode,macos,ibdesignable",15,15
+2,4439747,28184956,FastCGI process has failed frequently recently - for WP on IIS 7.5,"php,wordpress,iis,fastcgi",15,15
+1,237618,28589224,JavaScript redirect URL with Authorization header,"javascript,jquery,apache,basic-authentication",15,15
+1,1465681,28800841,Ionic emulate ios: Session could not be started,"ios,xcode,cordova,ionic",15,15
+0,2337310,28881539,"R, RStudio: Programmatically switch between 32-bit and 64-bit versions of R","r,rstudio",15,15
+0,779076,29135477,URL scheme for opening native calendar with specific event id,"ios,ekcalendar",15,15
+0,750914,29774948,Android: WebView stops loading after several pages,"android,android-webview,adview,android-4.1-jelly-bean",15,15
+0,1685165,30375274,How to get programmatically list of supported languages in an Android project (NOT device),"android,localization,android-resources",15,15
+0,3289792,30819918,Predefined type 'System.Object' is not defined or imported [dnxcore50],"asp.net,visual-studio-code",15,15
+2,5040785,31007597,How to use spark Java API to read binary file stream from HDFS?,"java,hadoop,apache-spark,streaming",15,15
+2,4545898,31425669,How to get RSS token for BitBucket by PHP CLI?,"php,rss,bitbucket",15,15
+4,1534990,30349354,Angular new router - Nested components and routing,"angularjs,angular-routing,angular-new-router",15,15
+0,4986873,30724491,Logback : using different patterns for different markers,"slf4j,logback,markers,mdc",15,15
+1,126507,31077959,Enforce JDK8 Doclint in Eclipse,"eclipse,java-8,javadoc,eclipse-mars,linter",15,15
+0,1718305,31571825,Rollback to old Nuget package manager in VS2015,"visual-studio,nuget-package",15,15
+1,5053360,31616028,Spring Batch commit-interval configuration not working,"java,spring,csv",15,15
+0,775221,31750894,"Internet Explorer/MS Edge set-cookie works for 127.0.0.1, but won't work for localhost","internet-explorer,session,cookies,session-cookies",15,15
+1,928067,31495408,Symbolicating iOS crash log lines containing libswiftcore.dylib,"ios,swift,crash",15,15
+2,305189,24865678,Xcode - Storyboard views size and position modified when opening,"objective-c,xcode,git,xcode-storyboard",15,15
+1,511144,32847368,How to use UserManager synchronously?,"c#,entity-framework,asp.net-identity",15,15
+3,1128289,37623354,Get build command or all compiler flags that will be used to build a target,cmake,15,15
+2,3022390,28906865,setNeedsLayout or layoutIfNeeded necessary after changing constraint constant?,"ios,autolayout,constraints",15,15
+1,2004530,39449629,How to set text of google api's dialog in application's default language,"android,google-api,locale,google-places-api,google-signin",15,15
+1,1427212,45943972,How to handle caching of JavaScript files imported as ES6 module,"javascript,browser-cache,es6-modules",15,15
+1,5863693,59007871,Do event listeners have to be removed manually when closing WebSocket connection in browser?,"javascript,websocket,event-handling",15,15
+2,2137653,36958763,webpack try to require a module that might be missing,webpack,15,15
+1,8412141,63338304,Firebase & iOS 14 > Will dynamic links tracking and campaigns continue to work?,"ios,firebase,react-native,react-native-firebase,firebase-dynamic-links",15,15
+1,1997232,38303201,ScrollIntoView and ListView with virtualization,"c#,wpf,listview,mvvm,virtualization",15,15
+5,769237,8519600,"MySQL DDL Trigger, Diff table schema for column rename","php,mysql,triggers,diff,alter-table",15,15
+3,5892839,53038276,MongoDB Compass $match and $text results in “Expected ”[“ or AggregationStage but ”{“ found.”,"mongodb,mongodb-compass",15,15
+2,923636,10387412,Nodejs Object Document Model for Redis,"node.js,redis,mongoose,odm,ohm",15,15
+1,1532642,11930142,Apk Expansion Files - Application Licensing - Developer account - NOT_LICENSED response,"java,android",15,15
+2,781588,12763746,LinearLayout minHeight not working with weigth=“1”,"java,android,xml,layout",15,15
+1,543539,13067735,Testing DialogFragments with Robolectric,"android,unit-testing,robolectric,android-dialogfragment",15,15
+1,1025539,10484856,"The parameter is incorrect. at MS.Internal.XcpImports.MethodEx(IntPtr ptr, String name, CValue[] cvData)","windows-phone-7,exception,back",15,15
+1,619493,12371768,Changing Socket Options on WCF net.tcp binding,"wcf,sockets,.net-4.0,tcp",15,15
+1,1942098,14355511,How can I change the background image of a field manager while focus change in BlackBerry Java,"blackberry,blackberry-jde",15,15
+2,122607,12866455,Why might Eclipse fail to show “Ant Build” in the run options for an Ant build file?,"eclipse,ant",15,15
+1,381849,14703533,Out-of-proc COM server stuck,"windows,com,marshalling,atl,active-script",15,15
+1,1554234,14708496,WebView Google Maps panning/dragging in Qt5,"webview,qtwebkit,qt5",15,15
+1,746347,22247054,Traffic data is displayed above drawn shapes (polylines) in Android Google Maps API v2,"android,google-maps,z-index,google-maps-android-api-2",15,15
+2,3641187,58145570,Does attention make sense for Autoencoders?,"lstm,recurrent-neural-network,autoencoder,dimensionality-reduction,attention-model",14,14
+0,9104763,59184963,Implementing Android Auto voice command support,"android,google-assistant-sdk,android-auto",14,14
+1,2466431,59285956,Using std::type_info for casting in natvis,"c++,visual-studio,c++17,natvis",14,14
+1,6882933,58062554,How to line break long large title in iOS 13?,"uinavigationbar,uinavigationitem,ios13",14,14
+0,4130619,59287737,"“Variables are not available” appearing sometimes during debugging, on stepping through program (Android Studio 3.5+)","android,android-studio,android-studio-3.0",14,14
+0,2071807,58876226,How to await a coroutine in pdb,"python,python-asyncio,python-3.7,pdb",14,14
+1,10234220,59056499,How can I run Jupyter Notebooks in VS Code with Julia as Interpreter? Within Added Variable Explorer/ Inspector?,"visual-studio-code,jupyter-notebook,julia",14,14
+1,174955,58893862,SwiftUI and Unity,"unity3d,swiftui",14,14
+1,11896374,59305451,Preventing java agents from attaching at runtime,"java,security,reverse-engineering",14,14
+0,3929957,59404282,Android 10 android.security.keymaster.ExportResult.resultCode NullPointerException crash,"java,android,keystore,android-keystore,android-security",14,14
+0,3563292,60110919,bundler: failed to load command: fastlane,"ruby,jenkins,rubygems,bundler,fastlane",14,14
+0,8400969,60536206,Speed up odbc::dbFetch,"r,sql-server,dataframe,odbc,fread",14,14
+0,1031013,61152718,Send Meeting URL using Google Meet API,"java,spring,google-calendar-api,hangout",14,14
+2,11895752,59390536,Flutter Camera Plugin taking dark image bug,"flutter,dart,camera,flutter-dependencies",14,14
+0,807452,62082042,How to get rid of Google's dynamite measurement in APK?,"android,service,analytics,playback",14,14
+1,1854555,62270828,How to get a working QR code scanner for Flutter web?,"flutter,flutter-web",14,14
+0,8564751,60743764,Creating Spark Objects from JPEG and using spark_apply() on a non-translated function,"r,binary,jpeg,sparklyr",14,14
+0,9784373,62777997,Non const When Capture Reference by Value?,"c++,g++,c++17",14,14
+1,1338478,62504081,"How do I fix EACCES: permission denied, open","amazon-web-services,aws-codebuild",14,14
+0,40916,57598262,How to emit rewrite rules from Template Haskell,"haskell,template-haskell",14,14
+1,1393200,48659082,Identifying culprits for numerous XA0106 warnings when building Xamarin.Forms app on Android,"android,xamarin,build,warnings",14,14
+1,242070,48131068,Warning “Must be one of” - NotificationManager.IMPORTANCE,"android,android-studio,android-studio-3.0,android-lint",14,14
+1,297868,48717723,Why is the Vision framework unable to align two images?,"ios,image-processing,computer-vision,cgaffinetransform,sequence-alignment",14,14
+0,6655004,63104426,"Creating an array of size 0 consumes value, forgetting it",rust,14,14
+1,1056563,49482682,Adjust the height of individual jupyter notebook cells,jupyter-notebook,14,14
+1,1194768,49365011,Angular 2: Add directive to dynamically created component(s),"angular,angular-directive,angular-components",14,14
+1,5128728,48855993,Defining custom print methods for arrays and atomic vectors,"r,r-s3",14,14
+0,9523557,49387875,LinearLayout: showDividers=“middle” not working on RTL layout direction,"android,android-layout,android-linearlayout,divider",14,14
+0,779449,49586166,Layers disappear when panning in DukeScript Leaflet4j,"javafx,leaflet",14,14
+2,1717213,49486472,"In Firebase Crashlytics, Where can I see user ID in the Reported Crashes?","firebase,crashlytics,firebase-crash-reporting",14,14
+0,5811576,50028659,"Django, ReactJS, Webpack hot reload","django,reactjs,webpack-dev-server",14,14
+1,3427013,49511005,Can't attach debugger to UNNotificationServiceExtension,"ios,swift,xcode,unnotificationserviceextension",14,14
+0,1124692,50433409,Stuck in redirect loop for google oauth 2 using application owner account,"ruby-on-rails-4,gmail,omniauth,google-oauth",14,14
+0,8960783,50438470,Is there anyway to do “strikethrough” on a text file in Sublime?,"text,sublimetext3,strikethrough",14,14
+1,4381665,50633704,How to integrate react DnD with react fullcalendar?,"reactjs,react-dnd",14,14
+1,8497979,51077707,Install Gitlab runner on ECS Cluster,"gitlab,amazon-ecs,gitlab-ci-runner",14,14
+0,6176714,51139615,Accessing string resources inside network-security-config,"android,pinning",14,14
+0,2631185,50075036,What properties of profunctors do not make it into Haskell/PureScript?,"haskell,monad-transformers,purescript,category-theory,profunctor",14,14
+2,1317407,50369174,Braintree Payment Transfer,"laravel,payment-gateway,braintree,stripe-connect",14,14
+0,4062013,51423508,iOS AudioUnit recording at 8kHz sample rate yields in silence,"ios,swift,audio,audiounit,downsampling",14,14
+0,5321371,50962243,Debug Kotlins coroutines in Android,"android,debugging,kotlin-coroutines",14,14
+2,2760637,51498409,What password does domain-protected pfx require?,"powershell,visual-studio-2017,certificate,code-signing,pfx",14,14
+0,2284676,39513108,Could not find generated setter @ React Native,"android,react-native",14,14
+1,3653668,39604778,How to debug problems in [Authorize] attribute,"asp.net,visual-studio,azure-active-directory",14,14
+1,6745444,39622225,How to encrypt and decrypt using 'FMDB/SQLCipher' in Swift?,"ios,swift,fmdb,sqlcipher",14,14
+1,6299675,39721347,stackoverflow error on view drag drop update,"android,drag-and-drop,views,viewgroup",14,14
+0,1575237,39982059,Compiler errors when consuming NuGet packages from an F# library targeting .NET Core,"compiler-errors,f#,nuget,.net-core",14,14
+1,4605315,40088300,Getting “JPEGDecompressSurface : Picture decode failed:” on creating UIImage from JPG raw data on iOS 10,ios,14,14
+0,2713030,40116954,OpenGL scene with transparent background + native widgets below and above,"android,opengl-es-2.0,transparency,glsurfaceview,textureview",14,14
+1,3935627,40241133,How to reduce the number of files in the anaconda directory?,"python,r,anaconda,conda",14,14
+2,207529,40284523,Connect external language server to VSCode extension,"visual-studio-code,vscode-extensions,language-server-protocol",14,14
+3,7327411,41552139,Jupyter notebook stuck in pdb mode,"python,ipython,jupyter-notebook,pdb,ipdb",14,14
+1,1778879,40720677,Android crash with translucent splash screen,"android,crash,splash-screen,translucency",14,14
+0,1345568,40830122,How to expose Azure Sql Server database using OData,"odata,azure-sql-database",14,14
+2,1001889,41810272,Black text on dark background on Nougat (android.R.layout.simple_spinner_item),"android,android-arrayadapter,android-spinner",14,14
+1,3308323,42249522,How to get value by column name in php spreadsheet-parser library?,"php,spreadsheet",14,14
+1,4363958,42364949,Dark theme for Mars 4.5 Mips?,"themes,mips,mars-simulator",14,14
+2,3586346,42797813,Distance between two mobile devices in Javasacript (Ionic),"javascript,ionic-framework,bluetooth-lowenergy,ibeacon,indoor-positioning-system",14,14
+0,688106,43017937,Why not always inherit add_header directives (rationale)?,nginx,14,14
